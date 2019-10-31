@@ -1,0 +1,401 @@
+1531462086251	geckodriver	INFO	geckodriver 0.19.0
+1531462086257	geckodriver	INFO	Listening on 127.0.0.1:62792
+1531462089304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.89LSzy0lQyQE"
+1531462090546	Marionette	INFO	Listening on port 62800
+1531462090805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462090829	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462090833	Marionette	DEBUG	[6442450945] Frame script registered
+1531462090849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462090877	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462090924	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462090943	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462090998	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462091033	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462091033	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462091046	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462091051	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462094056	Marionette	INFO	Stopped listening on port 62800
+1531462094151	geckodriver	INFO	geckodriver 0.19.0
+1531462094158	geckodriver	INFO	Listening on 127.0.0.1:62850
+1531462097184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EmOH9K8Beu3x"
+1531462098472	Marionette	INFO	Listening on port 62858
+1531462098690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462098714	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462098718	Marionette	DEBUG	[6442450945] Frame script registered
+1531462098732	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462098758	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462098821	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462098826	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462098887	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462098918	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462098918	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462098933	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462098938	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462101943	Marionette	INFO	Stopped listening on port 62858
+1531462102048	geckodriver	INFO	geckodriver 0.19.0
+1531462102055	geckodriver	INFO	Listening on 127.0.0.1:62907
+1531462105095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Z3Qb2FPom24D"
+1531462106534	Marionette	INFO	Listening on port 62915
+1531462106600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462106627	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462106632	Marionette	DEBUG	[6442450945] Frame script registered
+1531462106682	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462106715	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462106771	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462106791	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462106849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462106889	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462106890	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462106906	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462106911	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462109926	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462109969	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462109970	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462109988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462110002	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462111015	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462111041	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462111041	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462111059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462111074	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462112288	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531462116337	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462116367	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462116368	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462116385	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462116390	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462119393	Marionette	INFO	Stopped listening on port 62915
+1531462349863	geckodriver	INFO	geckodriver 0.19.0
+1531462349869	geckodriver	INFO	Listening on 127.0.0.1:63094
+1531462352915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dtfywvWdm58N"
+1531462354305	Marionette	INFO	Listening on port 63102
+1531462354427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462354452	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462354455	Marionette	DEBUG	[6442450945] Frame script registered
+1531462354472	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462354499	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462354552	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462354565	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462354625	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462354657	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462354657	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462354671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462354675	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462357681	Marionette	INFO	Stopped listening on port 63102
+1531462357779	geckodriver	INFO	geckodriver 0.19.0
+1531462357786	geckodriver	INFO	Listening on 127.0.0.1:63152
+1531462360829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.YuS4XlUDi13b"
+1531462362120	Marionette	INFO	Listening on port 63160
+1531462362335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462362359	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462362362	Marionette	DEBUG	[6442450945] Frame script registered
+1531462362377	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462362403	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462362463	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462362468	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462362533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462362569	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462362569	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462362583	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462362588	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462365594	Marionette	INFO	Stopped listening on port 63160
+1531462365715	geckodriver	INFO	geckodriver 0.19.0
+1531462365721	geckodriver	INFO	Listening on 127.0.0.1:63210
+1531462368764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.84fTfDuB5nfC"
+1531462370051	Marionette	INFO	Listening on port 63218
+1531462370264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462370288	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462370292	Marionette	DEBUG	[6442450945] Frame script registered
+1531462370307	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462370332	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462370380	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462370399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462370457	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462370489	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462370489	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462370503	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462370508	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462373524	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462373567	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462373567	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462373586	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462373600	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462374613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462374639	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462374639	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462374658	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462374670	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462375884	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531462379934	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462379964	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462379965	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462379983	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462379985	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462382991	Marionette	INFO	Stopped listening on port 63218
+1531462407664	geckodriver	INFO	geckodriver 0.19.0
+1531462407670	geckodriver	INFO	Listening on 127.0.0.1:63307
+1531462410716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1GxXZppQKg6y"
+1531462411961	Marionette	INFO	Listening on port 63315
+1531462412221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462412245	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462412249	Marionette	DEBUG	[6442450945] Frame script registered
+1531462412265	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462412290	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462412349	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462412368	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462412430	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462412469	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462412469	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462412485	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462412489	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462415507	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462415548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462415549	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462415572	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462415581	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462416593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462416619	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462416619	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462416638	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462416652	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462417866	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531462421916	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462421943	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462421944	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462421962	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462421967	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462424972	Marionette	INFO	Stopped listening on port 63315
+1531462433055	geckodriver	INFO	geckodriver 0.19.0
+1531462433061	geckodriver	INFO	Listening on 127.0.0.1:63409
+1531462436109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9tQUZSXTWJbP"
+1531462437416	Marionette	INFO	Listening on port 63417
+1531462437657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462437682	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462437686	Marionette	DEBUG	[6442450945] Frame script registered
+1531462437701	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462437728	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462437787	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462437801	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462437863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462437895	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462437896	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462437909	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462437914	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462440918	Marionette	INFO	Stopped listening on port 63417
+1531462441019	geckodriver	INFO	geckodriver 0.19.0
+1531462441026	geckodriver	INFO	Listening on 127.0.0.1:63467
+1531462444071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iZqfgEERzwwx"
+1531462445355	Marionette	INFO	Listening on port 63475
+1531462445579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462445604	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462445607	Marionette	DEBUG	[6442450945] Frame script registered
+1531462445621	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462445647	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462445697	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462445717	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462445778	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462445809	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462445810	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462445824	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462445829	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462448831	Marionette	INFO	Stopped listening on port 63475
+1531462448941	geckodriver	INFO	geckodriver 0.19.0
+1531462448947	geckodriver	INFO	Listening on 127.0.0.1:63522
+1531462451991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PyRhSqdSJqpK"
+1531462453270	Marionette	INFO	Listening on port 63530
+1531462453499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462453525	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462453528	Marionette	DEBUG	[6442450945] Frame script registered
+1531462453544	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462453569	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462453619	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462453638	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462453700	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462453742	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462453743	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462453756	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462453761	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462456778	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462456818	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462456819	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462456840	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462456961	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462457973	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462457999	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462457999	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462458024	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462458028	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462459242	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531462463292	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462463319	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462463320	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462463337	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462463342	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462466348	Marionette	INFO	Stopped listening on port 63530
+1531462496041	geckodriver	INFO	geckodriver 0.19.0
+1531462496047	geckodriver	INFO	Listening on 127.0.0.1:63619
+1531462499094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4SYHLnugSBGc"
+1531462500292	Marionette	INFO	Listening on port 63627
+1531462500600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462500625	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462500629	Marionette	DEBUG	[6442450945] Frame script registered
+1531462500643	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462500672	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462500729	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462500736	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462500798	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462500829	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462500829	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462500843	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462500848	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462503853	Marionette	INFO	Stopped listening on port 63627
+1531462503974	geckodriver	INFO	geckodriver 0.19.0
+1531462503981	geckodriver	INFO	Listening on 127.0.0.1:63676
+1531462507016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.zb9xoGgSzCUh"
+1531462508241	Marionette	INFO	Listening on port 63684
+1531462508540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462508565	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462508568	Marionette	DEBUG	[6442450945] Frame script registered
+1531462508583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462508609	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462508671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462508677	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462508737	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462508769	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462508770	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462508785	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462508789	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462511793	Marionette	INFO	Stopped listening on port 63684
+1531462511884	geckodriver	INFO	geckodriver 0.19.0
+1531462511890	geckodriver	INFO	Listening on 127.0.0.1:63733
+1531462514931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.l5W2eBZEXcjD"
+1531462516188	Marionette	INFO	Listening on port 63741
+1531462516432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531462516457	Marionette	DEBUG	[6442450945] Frame script loaded
+1531462516460	Marionette	DEBUG	[6442450945] Frame script registered
+1531462516477	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531462516503	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531462516552	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462516570	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462516635	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462516667	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462516667	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462516682	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462516687	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462519703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462519744	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462519744	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462519762	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462519775	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462520788	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531462520814	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531462520814	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531462520830	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462520843	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462522064	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531462526113	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462526141	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462526141	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531462526159	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531462526164	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531462529167	Marionette	INFO	Stopped listening on port 63741
+1531464376122	geckodriver	INFO	geckodriver 0.19.0
+1531464376128	geckodriver	INFO	Listening on 127.0.0.1:64373
+1531464379152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PmcYhl7KjYHn"
+1531464380418	Marionette	INFO	Listening on port 64381
+1531464380663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531464380688	Marionette	DEBUG	[6442450945] Frame script loaded
+1531464380691	Marionette	DEBUG	[6442450945] Frame script registered
+1531464380703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531464380733	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531464380798	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464380804	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464380873	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464380919	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464380920	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464380992	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464381002	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464384013	Marionette	INFO	Stopped listening on port 64381
+1531464384214	geckodriver	INFO	geckodriver 0.19.0
+1531464384221	geckodriver	INFO	Listening on 127.0.0.1:64431
+1531464387257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yUTJBXD7KoS8"
+1531464388516	Marionette	INFO	Listening on port 64439
+1531464388763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531464388787	Marionette	DEBUG	[6442450945] Frame script loaded
+1531464388790	Marionette	DEBUG	[6442450945] Frame script registered
+1531464388804	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531464388829	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531464388883	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464388900	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464389073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464389110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464389110	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464389123	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464389127	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464392144	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464392185	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464392185	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464392208	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464392217	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464393229	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464393255	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464393255	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464393274	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464393288	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464394502	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531464398551	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464398580	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464398580	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464398600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464398603	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464401606	Marionette	INFO	Stopped listening on port 64439
+1531464401713	geckodriver	INFO	geckodriver 0.19.0
+1531464401720	geckodriver	INFO	Listening on 127.0.0.1:64529
+1531464404755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ekXv7EgAyogg"
+1531464406013	Marionette	INFO	Listening on port 64539
+1531464406260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531464406285	Marionette	DEBUG	[6442450945] Frame script loaded
+1531464406290	Marionette	DEBUG	[6442450945] Frame script registered
+1531464406305	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531464406331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531464406382	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464406400	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464406469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464406508	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464406508	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464406524	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464406527	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464409529	Marionette	INFO	Stopped listening on port 64539
+1531464409767	geckodriver	INFO	geckodriver 0.19.0
+1531464409773	geckodriver	INFO	Listening on 127.0.0.1:64593
+1531464412804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tzoAuc4ZXhAN"
+1531464414041	Marionette	INFO	Listening on port 64601
+1531464414312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531464414345	Marionette	DEBUG	[6442450945] Frame script loaded
+1531464414349	Marionette	DEBUG	[6442450945] Frame script registered
+1531464414363	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531464414388	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531464414451	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464414460	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464414528	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464414558	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464414559	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464414574	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464414576	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464417593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464417634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464417635	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464417656	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464417668	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464418684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531464418710	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531464418710	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531464418737	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464418742	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464419955	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531464424004	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464424031	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464424031	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531464424048	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531464424052	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531464427056	Marionette	INFO	Stopped listening on port 64601

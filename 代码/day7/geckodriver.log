@@ -1,0 +1,199 @@
+1531451369171	geckodriver	INFO	geckodriver 0.19.0
+1531451369177	geckodriver	INFO	Listening on 127.0.0.1:60054
+1531451372223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5Jn55YHcYepJ"
+1531451373498	Marionette	INFO	Listening on port 60062
+1531451373727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531451373750	Marionette	DEBUG	[6442450945] Frame script loaded
+1531451373754	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5076, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531451596803	Marionette	INFO	Stopped listening on port 60062
+[GPU 18484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ http://192.168.2.246/ecshop/user.php
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9096, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9096, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 15772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531451596817	Marionette	INFO	Stopped listening on port 60091
+[GPU 14860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531451596699	Marionette	INFO	Stopped listening on port 60172
+[GPU 12468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451456313	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451456327	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451456331	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531451459347	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531451459399	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451459399	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451459421	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451459444	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531451460456	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531451460482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451460482	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451460498	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451460509	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451461722	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531451465771	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451465806	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451465807	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451465825	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451465830	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14164, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531451476727	Marionette	INFO	Stopped listening on port 60286
+[GPU 5424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531451478452	geckodriver	INFO	geckodriver 0.19.0
+1531451478458	geckodriver	INFO	Listening on 127.0.0.1:60373
+1531451481505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iMco27UNlkDb"
+1531451482869	Marionette	INFO	Listening on port 60381
+1531451483005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531451483031	Marionette	DEBUG	[6442450945] Frame script loaded
+1531451483042	Marionette	DEBUG	[6442450945] Frame script registered
+1531451483063	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531451483095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531451483143	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451483163	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531451483220	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531451483252	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451483253	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451483270	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451483272	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531451486290	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531451486347	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451486347	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451486366	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451486376	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531451487389	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531451487417	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531451487417	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531451487436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451487449	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451488662	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531451492710	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451492739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451492739	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531451492763	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531451492765	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+[Parent 14700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531451500714	Marionette	INFO	Stopped listening on port 60381
+[GPU 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531452444682	geckodriver	INFO	geckodriver 0.19.0
+1531452444689	geckodriver	INFO	Listening on 127.0.0.1:61310
+1531452447732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.g6bolJUTtI0r"
+1531452449053	Marionette	INFO	Listening on port 61318
+1531452449241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531452449265	Marionette	DEBUG	[6442450945] Frame script loaded
+1531452449268	Marionette	DEBUG	[6442450945] Frame script registered
+1531452465292	Marionette	INFO	Stopped listening on port 61318
+1531452526994	geckodriver	INFO	geckodriver 0.19.0
+1531452527000	geckodriver	INFO	Listening on 127.0.0.1:61341
+1531452530037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.oXlBcYjC7Z9q"
+1531452531344	Marionette	INFO	Listening on port 61349
+1531452531537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531452531562	Marionette	DEBUG	[6442450945] Frame script loaded
+1531452531565	Marionette	DEBUG	[6442450945] Frame script registered
+1531452534579	Marionette	INFO	Stopped listening on port 61349
+1531452637522	geckodriver	INFO	geckodriver 0.19.0
+1531452637528	geckodriver	INFO	Listening on 127.0.0.1:61382
+1531452640567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kVhiU1CMVHn1"
+1531452641907	Marionette	INFO	Listening on port 61390
+1531452642078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531452642104	Marionette	DEBUG	[6442450945] Frame script loaded
+1531452642107	Marionette	DEBUG	[6442450945] Frame script registered
+1531452642122	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531452642149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531452642207	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452642228	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452642289	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531452642325	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531452642326	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531452642344	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452642349	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452645352	Marionette	INFO	Stopped listening on port 61390
+1531452673521	geckodriver	INFO	geckodriver 0.19.0
+1531452673527	geckodriver	INFO	Listening on 127.0.0.1:61443
+1531452676567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xvlsJOSqstpB"
+1531452677833	Marionette	INFO	Listening on port 61451
+1531452678079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531452678104	Marionette	DEBUG	[6442450945] Frame script loaded
+1531452678108	Marionette	DEBUG	[6442450945] Frame script registered
+1531452678124	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531452678155	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531452678206	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452678219	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452678283	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531452678320	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531452678320	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531452678336	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452678340	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452681345	Marionette	INFO	Stopped listening on port 61451
+1531452681448	geckodriver	INFO	geckodriver 0.19.0
+1531452681454	geckodriver	INFO	Listening on 127.0.0.1:61500
+1531452684495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3hZQ2GHBEgU5"
+1531452685706	Marionette	INFO	Listening on port 61508
+1531452686061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531452686088	Marionette	DEBUG	[6442450945] Frame script loaded
+1531452686091	Marionette	DEBUG	[6442450945] Frame script registered
+1531452686105	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531452686135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531452686188	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452686206	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452686268	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531452686314	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531452686315	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531452686329	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452686334	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452689349	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531452689393	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531452689393	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531452689417	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452689425	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452690436	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php
+1531452690464	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php
+1531452690465	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php
+1531452690483	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php?act=message_list
+1531452690503	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php?act=message_list
+1531452691717	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531452695767	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531452695794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://192.168.2.246/ecshop/user.php?act=message_list
+1531452695794	Marionette	DEBUG	[6442450945] Received DOM event unload for http://192.168.2.246/ecshop/user.php?act=message_list
+1531452695814	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://192.168.2.246/ecshop/user.php
+1531452695817	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://192.168.2.246/ecshop/user.php
+1531452698823	Marionette	INFO	Stopped listening on port 61508

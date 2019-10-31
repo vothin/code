@@ -1,0 +1,213 @@
+2019-08-14 11:57:20,083 capability.py[line:43] INFO start app...
+2019-08-14 11:57:55,565 capability.py[line:49] INFO click id_person
+2019-08-14 11:58:02,023 capability.py[line:55] INFO no id_person
+2019-08-14 11:58:02,871 capability.py[line:62] INFO click tv_message
+2019-08-14 11:58:08,206 capability.py[line:68] INFO no tv_message
+2019-08-14 11:58:08,633 capability.py[line:74] INFO chang tv_name
+2019-08-14 11:58:13,796 capability.py[line:83] INFO change failed
+2019-08-14 12:04:55,052 capability.py[line:44] INFO start app...
+2019-08-14 12:05:24,136 capability.py[line:50] INFO click id_person
+2019-08-14 12:05:29,289 capability.py[line:56] INFO no id_person
+2019-08-14 12:05:29,658 capability.py[line:63] INFO click tv_message
+2019-08-14 12:06:05,957 capability.py[line:44] INFO start app...
+2019-08-14 12:06:32,164 capability.py[line:50] INFO click id_person
+2019-08-14 12:06:50,697 capability.py[line:44] INFO start app...
+2019-08-14 12:07:15,099 capability.py[line:50] INFO click id_person
+2019-08-14 12:07:21,214 capability.py[line:63] INFO click tv_message
+2019-08-14 12:07:21,261 capability.py[line:75] INFO chang tv_name
+2019-08-14 12:07:25,831 capability.py[line:87] INFO change succedd
+2019-08-14 12:07:48,407 capability.py[line:44] INFO start app...
+2019-08-14 12:08:14,219 capability.py[line:50] INFO click id_person
+2019-08-14 12:08:20,280 capability.py[line:63] INFO click tv_message
+2019-08-14 12:08:20,331 capability.py[line:75] INFO chang tv_name
+2019-08-14 12:08:24,759 capability.py[line:87] INFO change succedd
+2019-08-14 15:27:59,450 desired_caps.py[line:44] INFO start app...
+2019-08-14 15:32:49,964 desired_caps.py[line:44] INFO start app...
+2019-08-15 11:15:13,386 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:16:41,904 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:17:24,119 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:17:44,228 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 11:17:49,419 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 11:17:49,419 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 11:17:54,586 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 11:17:54,586 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 11:17:54,586 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 11:17:55,693 loginView.py[line:37] INFO ���룺123456
+2019-08-15 11:24:41,301 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:24:59,231 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 11:25:04,591 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 11:25:04,591 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 11:25:10,095 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 11:25:10,095 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 11:25:10,095 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 11:25:11,220 loginView.py[line:37] INFO ���룺123456
+2019-08-15 11:27:28,437 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:27:45,445 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 11:27:50,764 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 11:27:50,764 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 11:27:56,177 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 11:27:56,177 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 11:27:56,177 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 11:27:57,271 loginView.py[line:37] INFO ���룺123456
+2019-08-15 11:47:33,016 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:47:50,634 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 11:47:55,698 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 11:47:55,698 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 11:48:01,004 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 11:48:01,004 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 11:48:01,004 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 11:48:02,076 loginView.py[line:37] INFO ���룺123456
+2019-08-15 11:49:14,519 desired_caps.py[line:53] INFO start app...
+2019-08-15 11:49:32,088 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 11:49:37,474 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 11:49:37,474 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 11:49:42,540 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 11:49:42,540 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 11:49:42,540 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 11:49:43,633 loginView.py[line:37] INFO ���룺123456
+2019-08-15 12:00:03,263 desired_caps.py[line:53] INFO start app...
+2019-08-15 12:00:20,918 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 12:00:25,990 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 12:00:25,990 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 12:00:31,346 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 12:00:31,346 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 12:00:31,346 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 12:00:32,428 loginView.py[line:37] INFO ���룺123456
+2019-08-15 12:00:56,688 desired_caps.py[line:53] INFO start app...
+2019-08-15 12:01:15,460 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 12:01:20,491 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 12:01:20,491 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 12:01:25,974 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 12:01:25,974 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 12:01:25,974 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 12:01:27,047 loginView.py[line:37] INFO ���룺123456
+2019-08-15 12:04:58,773 desired_caps.py[line:53] INFO start app...
+2019-08-15 12:05:16,529 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 12:05:21,857 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 12:05:21,857 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 12:05:27,353 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 12:05:27,353 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 12:05:27,353 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 12:05:28,446 loginView.py[line:37] INFO ���룺123456
+2019-08-15 14:43:51,846 desired_caps.py[line:53] INFO start app...
+2019-08-15 14:44:12,129 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 14:44:17,481 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 14:44:17,482 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 14:44:22,723 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 14:44:22,723 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 14:44:22,723 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 14:44:23,851 loginView.py[line:37] INFO ���룺123456
+2019-08-15 14:45:19,968 desired_caps.py[line:53] INFO start app...
+2019-08-15 14:45:40,610 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 14:45:46,057 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 14:45:46,058 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 14:45:51,079 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 14:45:51,079 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 14:45:51,080 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 14:45:52,163 loginView.py[line:37] INFO ���룺123456
+2019-08-15 15:02:47,036 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:03:05,703 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:03:10,794 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:03:10,794 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:03:15,968 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:03:15,968 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 15:03:15,968 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 15:03:17,053 loginView.py[line:37] INFO ���룺123456
+2019-08-15 15:03:18,331 loginView.py[line:62] INFO ��֤�룺
+2019-08-15 15:03:18,867 loginView.py[line:65] INFO click loginBtn
+2019-08-15 15:04:10,198 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:04:29,418 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:04:34,797 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:04:34,798 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:04:40,137 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:04:40,137 loginView.py[line:32] INFO =============loin_action=============
+2019-08-15 15:04:40,137 loginView.py[line:33] INFO �û�����16212345678
+2019-08-15 15:04:41,219 loginView.py[line:37] INFO ���룺123456
+2019-08-15 15:04:42,508 loginView.py[line:63] INFO ��֤�룺ssbk
+2019-08-15 15:04:43,049 loginView.py[line:66] INFO click loginBtn
+2019-08-15 15:14:15,186 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:14:35,208 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:14:40,351 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:14:40,352 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:14:45,618 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:15:20,029 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:15:44,470 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:15:49,609 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:15:49,609 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:15:54,669 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:15:54,669 loginView.py[line:33] INFO =============loin_action=============
+2019-08-15 15:15:54,694 loginView.py[line:41] INFO �û�����16212345678
+2019-08-15 15:15:55,824 loginView.py[line:45] INFO ���룺123456
+2019-08-15 15:15:57,158 loginView.py[line:71] INFO ��֤�룺eetn
+2019-08-15 15:15:57,694 loginView.py[line:74] INFO click loginBtn
+2019-08-15 15:17:08,254 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:18:13,516 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:18:32,629 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:18:37,888 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:18:37,888 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:18:43,008 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:18:43,008 loginView.py[line:33] INFO =============loin_action=============
+2019-08-15 15:18:43,034 loginView.py[line:41] INFO �û�����16212345678
+2019-08-15 15:18:44,135 loginView.py[line:45] INFO ���룺123456
+2019-08-15 15:18:45,430 loginView.py[line:71] INFO ��֤�룺2r bp
+2019-08-15 15:18:45,967 loginView.py[line:74] INFO click loginBtn
+2019-08-15 15:23:31,823 desired_caps.py[line:53] INFO start app...
+2019-08-15 15:23:49,797 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 15:23:55,066 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 15:23:55,066 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 15:24:00,080 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 15:24:00,080 loginView.py[line:33] INFO =============loin_action=============
+2019-08-15 15:24:00,106 loginView.py[line:41] INFO �û�����16212345678
+2019-08-15 15:24:01,175 loginView.py[line:45] INFO ���룺123456
+2019-08-15 15:24:02,478 loginView.py[line:71] INFO ��֤�룺6dyp
+2019-08-15 15:24:03,014 loginView.py[line:74] INFO click loginBtn
+2019-08-15 16:00:16,731 desired_caps.py[line:53] INFO start app...
+2019-08-15 16:00:37,109 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 16:00:42,319 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 16:00:42,319 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 16:00:47,836 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 16:00:47,836 loginView.py[line:37] INFO =============login_action=============
+2019-08-15 16:00:53,110 loginView.py[line:42] INFO =============not_login=============
+2019-08-15 16:00:53,110 loginView.py[line:82] INFO =============logout_action=============
+2019-08-15 16:45:45,078 desired_caps.py[line:53] INFO start app...
+2019-08-15 16:46:05,837 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-15 16:46:11,264 common_fun.py[line:37] INFO no cancelBtn
+2019-08-15 16:46:11,265 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-15 16:46:16,325 common_fun.py[line:48] INFO no skipBtn
+2019-08-15 16:46:16,325 loginView.py[line:37] INFO =============login_action=============
+2019-08-15 16:46:16,351 loginView.py[line:45] INFO 用户名：16212345678
+2019-08-15 16:46:17,498 loginView.py[line:49] INFO 密码：123456
+2019-08-15 16:46:19,195 loginView.py[line:75] INFO 验证码：c2nx
+2019-08-15 16:46:19,737 loginView.py[line:78] INFO click loginBtn
+2019-08-15 16:46:20,264 loginView.py[line:82] INFO =============logout_action=============
+2019-08-15 16:46:28,150 loginView.py[line:94] INFO 已退出
+2019-08-19 11:00:44,796 desired_caps.py[line:53] INFO start app...
+2019-08-19 11:01:06,006 loginView.py[line:38] INFO =============login_action=============
+2019-08-19 11:01:08,056 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-19 11:01:09,131 loginView.py[line:50] INFO 密码：123456
+2019-08-19 11:01:10,804 loginView.py[line:76] INFO 验证码：txr4
+2019-08-19 11:01:11,344 loginView.py[line:79] INFO click loginBtn
+2019-08-19 11:01:12,814 loginView.py[line:83] INFO =============logout_action=============
+2019-08-19 11:01:19,213 loginView.py[line:95] INFO 已退出
+2019-08-19 11:04:01,954 desired_caps.py[line:53] INFO start app...
+2019-08-19 11:04:27,134 common_fun.py[line:32] INFO =============check_cancelBtn=============
+2019-08-19 11:04:32,316 common_fun.py[line:37] INFO no cancelBtn
+2019-08-19 11:04:32,316 common_fun.py[line:43] INFO =============check_skipBtn=============
+2019-08-19 11:04:37,809 common_fun.py[line:48] INFO no skipBtn
+2019-08-19 11:10:54,090 desired_caps.py[line:53] INFO start app...
+2019-08-19 11:11:21,952 loginView.py[line:38] INFO =============login_action=============
+2019-08-19 11:11:23,945 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-19 11:11:25,087 loginView.py[line:50] INFO 密码：123456
+2019-08-19 11:11:26,576 loginView.py[line:76] INFO 验证码：to5w
+2019-08-19 11:11:27,146 loginView.py[line:79] INFO click loginBtn
+2019-08-19 11:11:28,478 loginView.py[line:83] INFO =============logout_action=============
+2019-08-19 11:11:33,802 loginView.py[line:89] INFO =============not_logout=============
+2019-08-19 11:11:56,011 desired_caps.py[line:53] INFO start app...
+2019-08-19 11:12:16,069 loginView.py[line:38] INFO =============login_action=============
+2019-08-19 11:12:18,962 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-19 11:12:20,054 loginView.py[line:50] INFO 密码：123456
+2019-08-19 11:12:21,355 loginView.py[line:76] INFO 验证码：7y2m
+2019-08-19 11:12:21,891 loginView.py[line:79] INFO click loginBtn
+2019-08-19 11:12:22,423 loginView.py[line:83] INFO =============logout_action=============
+2019-08-19 11:12:30,529 loginView.py[line:95] INFO 已退出
+2019-08-19 11:28:04,494 desired_caps.py[line:53] INFO start app...

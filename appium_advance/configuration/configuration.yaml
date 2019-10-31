@@ -1,0 +1,19 @@
+# appium配置信息
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+app: C:\Users\zhangyi\Desktop\Android\医生端\wdkl.manager.v1.0.14.apk
+appPackage: doctor.wdklian.com
+appActivity: doctor.wdklian.com.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
+
+# 测试覆盖开关按钮，True是重新安装软件，False是继续测试
+noReset: False
+
+# 开启中文输入
+unicodeKeyboard: True
+resetKeyboard: True
+
+# 开启验证Toast信息
+automationName: uiautomator2

@@ -1,0 +1,34 @@
+# appium配置信息
+platformName: Android
+
+# 模拟器 - 夜神模拟器
+#platformVersion: 5.1.1
+#deviceName: 127.0.0.1:62001
+
+# 真机 - OPPO R15
+#platformVersion: 8.1.0
+#udid: ZSJZSOTKJVRSJRDQ
+#deviceName: OPPO R15
+
+# 真机 - OnePlus 5
+platformVersion: 9
+udid: f312d56e
+deviceName: OnePlus 5
+
+# APP启动相关
+#appname: wdkl.user.v1.0.27(1).apk
+app: D:\Python3\code\care_user\app\wdkl.user.v1.0.27(1).apk
+appPackage: com.wdkl.capacity_care_user
+appActivity: com.wdkl.capacity_care_user.presentation.ui.activities.WelcomeActivity2
+ip: 127.0.0.1
+port: 4723
+
+# 测试覆盖开关按钮，True是继续测试，False是重新安装
+noReset: True
+
+# 开启中文输入
+unicodeKeyboard: True
+resetKeyboard: True
+
+# 开启验证Toast信息
+automationName: uiautomator2

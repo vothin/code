@@ -1,0 +1,1168 @@
+2019-08-19 15:22:58,513 desired_caps.py[line:55] INFO start app...
+2019-08-19 15:24:15,140 desired_caps.py[line:55] INFO start app...
+2019-08-19 15:24:47,918 desired_caps.py[line:55] INFO start app...
+2019-08-19 15:25:26,205 desired_caps.py[line:55] INFO start app...
+2019-08-19 15:28:20,230 desired_caps.py[line:58] INFO start app...
+2019-08-19 15:30:27,240 desired_caps.py[line:59] INFO start app...
+2019-08-19 17:13:41,079 desired_caps.py[line:59] INFO start app...
+2019-08-19 17:13:58,851 common_fun.py[line:34] INFO =============check_cancelBtn=============
+2019-08-19 17:14:03,938 common_fun.py[line:39] INFO no cancelBtn
+2019-08-19 17:14:03,939 common_fun.py[line:45] INFO =============check_skipBtn=============
+2019-08-19 17:14:09,046 common_fun.py[line:50] INFO no skipBtn
+2019-08-19 17:14:09,046 common_fun.py[line:61] INFO =============swipeLeft=============
+2019-08-19 17:14:09,046 common_fun.py[line:55] INFO =============get_size=============
+2019-08-19 17:14:10,349 common_fun.py[line:75] INFO get startAPP screensht
+2019-08-19 17:16:56,499 desired_caps.py[line:59] INFO start app...
+2019-08-19 17:17:09,828 common_fun.py[line:34] INFO =============check_cancelBtn=============
+2019-08-19 17:17:15,073 common_fun.py[line:39] INFO no cancelBtn
+2019-08-19 17:17:15,074 common_fun.py[line:45] INFO =============check_skipBtn=============
+2019-08-19 17:17:20,560 common_fun.py[line:50] INFO no skipBtn
+2019-08-19 17:17:20,560 common_fun.py[line:61] INFO =============swipeLeft=============
+2019-08-19 17:17:20,560 common_fun.py[line:55] INFO =============get_size=============
+2019-08-19 17:17:21,834 common_fun.py[line:75] INFO get startAPP screensht
+2019-08-20 16:06:55,983 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:07:12,295 loginView.py[line:38] INFO =============login_action=============
+2019-08-20 16:07:17,307 loginView.py[line:43] INFO =============not_login=============
+2019-08-20 16:07:17,307 loginView.py[line:99] INFO =============退出登录=============
+2019-08-20 16:08:51,885 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:09:08,026 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:09:13,706 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-20 16:09:13,707 common_fun.py[line:45] INFO =============check_skipBtn=============
+2019-08-20 16:09:18,761 common_fun.py[line:50] INFO no skipBtn
+2019-08-20 16:09:18,762 loginView.py[line:99] INFO =============退出登录=============
+2019-08-20 16:09:47,730 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:10:04,604 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:10:10,284 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-20 16:10:10,284 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:10:11,579 loginView.py[line:94] INFO 登录成功
+2019-08-20 16:10:11,579 loginView.py[line:99] INFO =============退出登录=============
+2019-08-20 16:10:12,983 loginView.py[line:102] INFO 已退出
+2019-08-20 16:10:12,983 loginView.py[line:99] INFO =============退出登录=============
+2019-08-20 16:11:25,920 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:11:41,841 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:11:44,111 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-20 16:11:45,187 loginView.py[line:50] INFO 密码：123456
+2019-08-20 16:11:47,437 loginView.py[line:77] INFO 验证码：tek2
+2019-08-20 16:11:47,976 loginView.py[line:80] INFO click loginBtn
+2019-08-20 16:11:48,502 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:11:54,906 loginView.py[line:94] INFO 登录成功
+2019-08-20 16:11:54,906 loginView.py[line:99] INFO =============退出登录=============
+2019-08-20 16:11:56,225 loginView.py[line:102] INFO 已退出
+2019-08-20 16:17:37,519 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:17:53,133 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:17:55,154 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-20 16:17:56,356 loginView.py[line:50] INFO 密码：123456
+2019-08-20 16:17:58,569 loginView.py[line:77] INFO 验证码：knd6é
+2019-08-20 16:17:59,131 loginView.py[line:80] INFO click loginBtn
+2019-08-20 16:17:59,663 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:18:04,758 loginView.py[line:90] ERROR 登录失败
+2019-08-20 16:18:04,758 common_fun.py[line:78] INFO get 登录失败 screensht
+2019-08-20 16:19:02,659 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:19:20,554 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:19:22,484 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-20 16:19:23,648 loginView.py[line:50] INFO 密码：123456
+2019-08-20 16:19:25,629 loginView.py[line:77] INFO 验证码：ty84
+2019-08-20 16:19:26,207 loginView.py[line:80] INFO click loginBtn
+2019-08-20 16:19:26,730 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:19:32,043 loginView.py[line:90] ERROR 登录失败
+2019-08-20 16:19:32,044 common_fun.py[line:78] INFO get 登录失败 screensht
+2019-08-20 16:20:27,484 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:20:43,516 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:20:48,635 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-20 16:20:48,636 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:21:42,586 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:21:57,555 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:22:02,678 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-20 16:22:02,678 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:22:03,926 loginView.py[line:94] INFO 登录成功
+2019-08-20 16:24:59,603 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:25:13,286 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:25:18,774 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-20 16:25:18,774 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:25:19,859 loginView.py[line:94] INFO 登录成功
+2019-08-20 16:25:19,880 loginView.py[line:100] INFO =============退出登录=============
+2019-08-20 16:25:21,218 loginView.py[line:103] INFO 退出成功
+2019-08-20 16:26:09,690 desired_caps.py[line:59] INFO start app...
+2019-08-20 16:26:32,775 loginView.py[line:38] INFO =============登录=============
+2019-08-20 16:26:34,777 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-20 16:26:35,860 loginView.py[line:50] INFO 密码：123456
+2019-08-20 16:26:37,831 loginView.py[line:77] INFO 验证码：y6ed
+2019-08-20 16:26:38,387 loginView.py[line:80] INFO 点击登录按钮
+2019-08-20 16:26:38,924 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-20 16:26:46,280 loginView.py[line:94] INFO 登录成功
+2019-08-20 16:26:46,295 loginView.py[line:95] INFO 用户名：011
+2019-08-20 16:26:46,296 loginView.py[line:100] INFO =============退出登录=============
+2019-08-20 16:26:47,667 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:11:43,890 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:11:43,892 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:12:01,587 test_login.py[line:26] INFO =============测试登录16312345678=============
+2019-08-21 16:12:01,588 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:12:03,875 loginView.py[line:46] INFO 用户名：2
+2019-08-21 16:12:05,061 loginView.py[line:50] INFO 密码：['16312345678', '123456']
+2019-08-21 16:12:07,745 loginView.py[line:77] INFO 验证码：yst5
+2019-08-21 16:12:08,304 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:12:09,758 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:12:15,221 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:12:15,221 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:12:15,422 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:12:20,445 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:12:20,447 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:12:38,219 test_login.py[line:39] INFO =============测试登录16212345678=============
+2019-08-21 16:12:38,219 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:12:40,221 loginView.py[line:46] INFO 用户名：1
+2019-08-21 16:12:41,451 loginView.py[line:50] INFO 密码：['16212345678', '123456']
+2019-08-21 16:12:43,523 loginView.py[line:77] INFO 验证码：c43w
+2019-08-21 16:12:44,075 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:12:44,612 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:12:45,191 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:12:45,195 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:12:48,058 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:12:48,061 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:12:51,144 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:12:51,146 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:13:24,975 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:13:24,977 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:13:38,205 test_login.py[line:39] INFO =============测试登录16212345678=============
+2019-08-21 16:13:38,206 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:13:40,494 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 16:13:41,646 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:13:43,498 loginView.py[line:77] INFO 验证码：s25w
+2019-08-21 16:13:44,041 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:13:44,561 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:13:52,471 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:13:52,491 loginView.py[line:95] INFO 用户名：011
+2019-08-21 16:13:52,491 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:13:53,866 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:13:53,866 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:16:02,438 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:16:02,443 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:16:18,134 test_login.py[line:26] INFO =============测试登录16312345678=============
+2019-08-21 16:16:18,135 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:16:20,250 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 16:16:21,415 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:16:23,427 loginView.py[line:77] INFO 验证码：f bre
+2019-08-21 16:16:23,997 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:16:25,431 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:16:30,833 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:16:30,834 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:16:31,106 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:16:37,110 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:16:37,113 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:17:00,929 test_login.py[line:39] INFO =============测试登录16212345678=============
+2019-08-21 16:17:00,930 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:17:02,555 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 16:17:03,798 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:17:05,714 loginView.py[line:77] INFO 验证码：qb58
+2019-08-21 16:17:06,260 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:17:06,832 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:17:14,031 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:17:14,032 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:17:14,399 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:17:20,795 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:17:20,798 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:17:35,503 test_login.py[line:52] INFO =============测试登录16512345678=============
+2019-08-21 16:17:35,504 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:17:38,885 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:17:44,552 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:17:44,554 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:17:59,166 test_login.py[line:65] INFO =============测试登录15502043438=============
+2019-08-21 16:17:59,166 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:18:05,234 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-21 16:18:05,234 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:18:06,348 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:18:06,377 loginView.py[line:95] INFO 用户名：011
+2019-08-21 16:18:06,377 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:18:07,730 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:18:07,730 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:20:51,092 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:20:51,094 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:21:04,739 test_login.py[line:65] INFO =============测试登录15502043438=============
+2019-08-21 16:21:04,742 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:21:07,005 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 16:21:08,100 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:21:09,942 loginView.py[line:77] INFO 验证码：47pe
+2019-08-21 16:21:10,839 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:21:12,441 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:21:17,360 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:21:17,374 loginView.py[line:95] INFO 用户名：测试店铺04
+2019-08-21 16:21:17,374 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:21:18,725 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:21:18,725 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:22:38,932 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:22:38,934 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:22:53,927 test_login.py[line:26] INFO =============测试登录16312345678=============
+2019-08-21 16:22:53,928 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:22:56,235 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 16:22:57,412 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:22:59,370 loginView.py[line:77] INFO 验证码：XeWw
+2019-08-21 16:22:59,934 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:23:01,662 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:23:07,680 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:23:07,697 loginView.py[line:95] INFO 用户名：测试自动化
+2019-08-21 16:23:07,697 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:23:09,106 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:23:09,107 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:23:15,550 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:23:15,553 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:23:32,741 test_login.py[line:39] INFO =============测试登录16212345678=============
+2019-08-21 16:23:32,741 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:23:34,642 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 16:23:35,832 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:23:37,770 loginView.py[line:77] INFO 验证码：75fq
+2019-08-21 16:23:38,318 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:23:38,886 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:23:46,371 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:23:46,393 loginView.py[line:95] INFO 用户名：011
+2019-08-21 16:23:46,394 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:23:47,815 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:23:47,815 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:23:54,258 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:23:54,261 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:24:11,007 test_login.py[line:52] INFO =============测试登录16512345678=============
+2019-08-21 16:24:11,007 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:24:13,327 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:24:14,539 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:24:15,602 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:24:20,624 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:24:20,627 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:24:34,984 test_login.py[line:65] INFO =============测试登录15502043438=============
+2019-08-21 16:24:34,984 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:24:36,971 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 16:24:38,099 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:24:39,934 loginView.py[line:77] INFO 验证码：s8y6
+2019-08-21 16:24:40,480 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:24:41,027 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:24:48,684 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:24:48,713 loginView.py[line:95] INFO 用户名：测试店铺04
+2019-08-21 16:24:48,713 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:24:50,139 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:24:50,139 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:28:15,833 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:28:15,836 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:28:30,480 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-21 16:28:30,481 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:28:33,273 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-21 16:28:34,362 loginView.py[line:50] INFO 密码：841543
+2019-08-21 16:28:36,202 loginView.py[line:77] INFO 验证码：8sem
+2019-08-21 16:28:36,744 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:28:37,277 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:28:45,282 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:28:45,282 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:28:45,475 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:29:14,146 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:29:14,148 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:29:31,264 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-21 16:29:31,266 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:29:33,511 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 16:29:34,640 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:29:36,599 loginView.py[line:77] INFO 验证码：3nzc
+2019-08-21 16:29:37,142 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:29:37,685 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:29:44,874 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:29:44,902 loginView.py[line:95] INFO 用户名：测试自动化
+2019-08-21 16:29:44,902 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:29:46,403 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:29:46,404 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:29:57,915 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:29:57,917 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:30:12,855 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-21 16:30:12,855 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:30:15,058 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 16:30:16,218 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:30:18,047 loginView.py[line:77] INFO 验证码：cf py
+2019-08-21 16:30:18,594 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:30:19,934 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:30:28,289 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:30:28,289 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:30:28,551 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:30:39,494 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:30:39,496 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:30:55,449 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:30:55,451 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:31:08,685 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-21 16:31:08,685 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:31:10,872 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 16:31:12,030 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:31:14,029 loginView.py[line:77] INFO 验证码：5y5m
+2019-08-21 16:31:14,584 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:31:15,135 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:31:21,602 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:31:21,625 loginView.py[line:95] INFO 用户名：测试店铺04
+2019-08-21 16:31:21,625 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:31:22,992 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:31:22,992 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:31:34,237 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:31:34,240 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:31:49,036 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-21 16:31:49,036 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:31:51,403 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-21 16:31:52,572 loginView.py[line:50] INFO 密码：841543
+2019-08-21 16:31:54,417 loginView.py[line:77] INFO 验证码：n2pk
+2019-08-21 16:31:54,962 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:31:55,487 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:32:03,963 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:32:03,963 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:32:04,240 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:34:25,557 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:34:25,558 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:34:38,672 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:34:38,673 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:34:41,128 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:34:42,231 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:34:44,108 loginView.py[line:77] INFO 验证码：t 4nw
+2019-08-21 16:34:44,652 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:34:45,174 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:34:53,269 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:34:53,269 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:34:53,529 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:35:57,436 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:35:57,439 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:36:11,389 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:36:11,390 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:36:13,657 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:36:14,768 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:36:16,596 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:37:41,762 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:37:41,764 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:37:55,083 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:37:55,083 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:37:57,550 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:37:58,631 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:38:00,473 loginView.py[line:77] INFO 验证码：XSPW
+2019-08-21 16:38:01,016 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:38:02,673 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:38:08,641 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:38:08,656 loginView.py[line:95] INFO 用户名：测试医生013
+2019-08-21 16:38:08,656 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:38:10,354 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:38:10,355 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:38:49,498 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:38:49,505 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:39:06,188 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:39:06,190 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:39:08,458 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:39:09,554 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:39:10,371 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:39:30,209 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:39:30,211 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:39:43,436 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:39:43,437 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:39:45,592 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:39:46,730 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:39:48,591 loginView.py[line:77] INFO 验证码：NSNx
+2019-08-21 16:39:49,134 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:39:49,670 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:39:57,857 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:39:57,857 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:39:58,060 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:40:01,725 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:40:01,727 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:40:24,924 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:40:24,926 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:40:38,761 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:40:38,762 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:40:40,606 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:40:41,703 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:40:43,537 loginView.py[line:77] INFO 验证码：dpzk
+2019-08-21 16:40:44,080 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:40:44,605 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:40:51,160 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:40:51,178 loginView.py[line:95] INFO 用户名：测试医生013
+2019-08-21 16:40:51,179 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:40:52,521 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:40:52,521 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:41:08,818 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:41:08,822 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:41:22,329 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-21 16:41:22,330 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:41:24,090 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 16:41:25,201 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:41:27,026 loginView.py[line:77] INFO 验证码：
+2019-08-21 16:41:27,570 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:41:28,101 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:41:36,253 loginView.py[line:90] ERROR 登录失败
+2019-08-21 16:41:36,253 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 16:41:36,448 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:42:01,762 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:42:01,764 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:42:15,521 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-21 16:42:15,522 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:42:17,407 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 16:42:18,498 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:42:20,366 loginView.py[line:77] INFO 验证码：ypzc
+2019-08-21 16:42:20,908 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:42:21,438 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:42:27,370 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:42:27,389 loginView.py[line:95] INFO 用户名：测试自动化
+2019-08-21 16:42:27,389 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:42:28,744 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:42:28,744 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:42:39,910 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:42:39,913 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:42:53,290 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-21 16:42:53,290 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:42:55,608 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 16:42:56,838 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:42:58,679 loginView.py[line:77] INFO 验证码：bstx
+2019-08-21 16:42:59,222 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:42:59,757 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:43:06,717 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:43:06,734 loginView.py[line:95] INFO 用户名：011
+2019-08-21 16:43:06,735 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:43:08,104 loginView.py[line:103] INFO 退出成功
+2019-08-21 16:43:08,104 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:43:19,183 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:43:19,196 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:43:33,728 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 16:43:33,728 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:43:35,792 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 16:43:35,806 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:43:46,480 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:43:46,482 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:43:59,762 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-21 16:43:59,762 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:44:02,246 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 16:44:03,401 loginView.py[line:50] INFO 密码：123456
+2019-08-21 16:44:05,226 loginView.py[line:77] INFO 验证码：6qxr
+2019-08-21 16:44:05,768 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 16:44:06,311 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:44:12,922 loginView.py[line:94] INFO 登录成功
+2019-08-21 16:44:12,950 loginView.py[line:95] INFO 用户名：测试店铺04
+2019-08-21 16:44:12,950 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 16:44:14,269 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:44:19,282 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:44:19,284 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:44:33,036 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-21 16:44:33,036 loginView.py[line:38] INFO =============登录=============
+2019-08-21 16:44:41,262 loginView.py[line:43] INFO =============没有登录界面=============
+2019-08-21 16:44:41,263 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 16:44:42,168 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 16:51:44,165 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:51:44,168 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:24,583 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:24,585 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:27,761 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:27,763 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:31,386 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:31,388 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:34,906 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:34,908 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:47,948 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:47,950 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:51,184 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:51,186 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:54,685 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:54,687 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:52:58,222 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:52:58,225 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:01,725 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:01,727 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:10,388 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:10,391 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:13,491 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:13,493 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:16,974 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:16,977 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:20,262 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:20,265 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:53:23,412 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:53:23,413 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:54:16,874 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:54:16,879 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:54:20,283 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:54:20,285 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:54:23,438 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:54:23,440 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:54:27,631 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:54:27,634 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:54:31,139 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 16:54:31,142 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:56:13,301 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:59:07,737 desired_caps.py[line:59] INFO start app...
+2019-08-21 16:59:47,141 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:00:54,473 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:06:59,550 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:07:56,935 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:07:56,937 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:08:13,108 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-21 17:08:13,109 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:08:16,173 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 17:08:18,101 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:08:21,637 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:08:31,806 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:08:31,809 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:08:46,363 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-21 17:08:46,363 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:08:49,388 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 17:08:53,100 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:09:00,703 loginView.py[line:77] INFO 验证码：5266
+2019-08-21 17:09:04,454 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 17:09:05,194 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 17:09:11,292 loginView.py[line:94] INFO 登录成功
+2019-08-21 17:09:11,348 loginView.py[line:95] INFO 用户名：011
+2019-08-21 17:09:11,348 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 17:09:12,279 loginView.py[line:103] INFO 退出成功
+2019-08-21 17:09:12,280 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:09:22,518 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:09:22,521 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:09:37,442 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 17:09:37,443 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:09:41,101 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 17:09:43,103 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:09:50,434 loginView.py[line:77] INFO 验证码：cdpk
+2019-08-21 17:09:54,116 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 17:09:55,174 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 17:09:59,339 loginView.py[line:94] INFO 登录成功
+2019-08-21 17:09:59,378 loginView.py[line:95] INFO 用户名：测试医生013
+2019-08-21 17:09:59,378 loginView.py[line:100] INFO =============退出登录=============
+2019-08-21 17:10:02,171 loginView.py[line:103] INFO 退出成功
+2019-08-21 17:10:02,171 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:10:12,482 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:10:12,485 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:10:26,848 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-21 17:10:26,848 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:10:29,475 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 17:10:32,476 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:10:37,437 loginView.py[line:77] INFO 验证码：7tSw
+2019-08-21 17:10:38,160 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 17:10:40,145 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 17:10:49,120 loginView.py[line:90] ERROR 登录失败
+2019-08-21 17:10:49,121 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 17:10:49,697 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:10:59,958 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:10:59,960 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:11:15,194 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-21 17:11:15,195 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:11:18,231 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-21 17:11:20,054 loginView.py[line:50] INFO 密码：841543
+2019-08-21 17:11:25,443 loginView.py[line:77] INFO 验证码：43kf
+2019-08-21 17:11:26,085 loginView.py[line:80] INFO 点击登录按钮
+2019-08-21 17:11:28,190 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-21 17:11:36,199 loginView.py[line:90] ERROR 登录失败
+2019-08-21 17:11:36,199 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 17:11:36,753 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:18:03,224 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:18:03,227 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:18:17,980 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-21 17:18:17,981 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:18:21,126 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-21 17:18:24,097 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:18:28,771 loginView.py[line:78] INFO 验证码：yksc
+2019-08-21 17:18:30,097 loginView.py[line:81] INFO 点击登录按钮
+2019-08-21 17:18:31,196 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-21 17:18:36,283 loginView.py[line:95] INFO 登录成功
+2019-08-21 17:18:36,312 loginView.py[line:96] INFO 用户名：测试自动化
+2019-08-21 17:18:36,312 loginView.py[line:101] INFO =============退出登录=============
+2019-08-21 17:18:38,104 loginView.py[line:104] INFO 退出成功
+2019-08-21 17:18:38,104 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:18:48,373 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:18:48,382 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:19:03,640 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-21 17:19:03,640 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:19:06,303 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-21 17:19:08,116 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:19:13,497 loginView.py[line:78] INFO 验证码：
+2019-08-21 17:19:15,081 loginView.py[line:81] INFO 点击登录按钮
+2019-08-21 17:19:17,304 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-21 17:19:26,228 loginView.py[line:91] ERROR 登录失败
+2019-08-21 17:19:26,228 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 17:19:26,789 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:19:37,003 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:19:37,008 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:19:51,437 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-21 17:19:51,438 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:19:54,157 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-21 17:19:55,245 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:20:03,521 loginView.py[line:78] INFO 验证码：8bqs
+2019-08-21 17:20:07,109 loginView.py[line:81] INFO 点击登录按钮
+2019-08-21 17:20:09,203 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-21 17:20:15,338 loginView.py[line:95] INFO 登录成功
+2019-08-21 17:20:15,383 loginView.py[line:96] INFO 用户名：测试医生013
+2019-08-21 17:20:15,383 loginView.py[line:101] INFO =============退出登录=============
+2019-08-21 17:20:21,119 loginView.py[line:104] INFO 退出成功
+2019-08-21 17:20:21,120 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:20:31,339 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:20:31,341 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:20:45,431 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-21 17:20:45,432 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:20:48,192 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-21 17:20:50,090 loginView.py[line:50] INFO 密码：123456
+2019-08-21 17:20:55,549 loginView.py[line:78] INFO 验证码：r4nd
+2019-08-21 17:20:57,099 loginView.py[line:81] INFO 点击登录按钮
+2019-08-21 17:20:59,089 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-21 17:21:07,141 loginView.py[line:91] ERROR 登录失败
+2019-08-21 17:21:07,141 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 17:21:07,733 start_end.py[line:32] INFO =============执行完成=============
+2019-08-21 17:21:17,973 start_end.py[line:24] INFO =============用例执行=============
+2019-08-21 17:21:17,977 desired_caps.py[line:59] INFO start app...
+2019-08-21 17:21:32,436 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-21 17:21:32,436 loginView.py[line:38] INFO =============登录=============
+2019-08-21 17:21:35,134 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-21 17:21:37,091 loginView.py[line:50] INFO 密码：841543
+2019-08-21 17:21:41,556 loginView.py[line:78] INFO 验证码：nnx2
+2019-08-21 17:21:43,095 loginView.py[line:81] INFO 点击登录按钮
+2019-08-21 17:21:44,188 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-21 17:21:53,105 loginView.py[line:91] ERROR 登录失败
+2019-08-21 17:21:53,106 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-21 17:21:53,701 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:25:36,348 runner.py[line:27] INFO start run test case...
+2019-08-22 10:25:36,348 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:25:36,351 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:25:56,589 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 10:25:56,590 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:25:59,428 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 10:26:00,543 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:26:02,836 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:26:13,842 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:26:13,844 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:26:32,546 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 10:26:32,547 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:26:35,241 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-22 10:26:36,392 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:26:38,247 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:26:49,268 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:26:49,271 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:27:08,868 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 10:27:08,869 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:27:08,894 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:27:19,576 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:27:19,578 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:27:36,746 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 10:27:36,747 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:27:39,372 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 10:27:40,526 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:27:42,367 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:27:53,031 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:27:53,034 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:28:11,336 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 10:28:11,336 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:28:13,273 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 10:28:14,462 loginView.py[line:50] INFO 密码：841543
+2019-08-22 10:28:15,146 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:32:06,619 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:32:06,624 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:32:26,469 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 10:32:26,470 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:32:28,643 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 10:32:29,827 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:32:31,766 loginView.py[line:78] INFO 验证码：qnpe
+2019-08-22 10:32:32,704 loginView.py[line:81] INFO 点击登录按钮
+2019-08-22 10:32:34,440 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-22 10:32:40,872 loginView.py[line:95] INFO 登录成功
+2019-08-22 10:32:40,910 loginView.py[line:96] INFO 用户名：测试自动化
+2019-08-22 10:32:40,910 loginView.py[line:101] INFO =============退出登录=============
+2019-08-22 10:32:43,021 loginView.py[line:104] INFO 退出成功
+2019-08-22 10:32:43,022 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:32:54,405 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:32:54,408 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:33:13,624 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 10:33:13,625 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:33:15,738 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-22 10:33:16,847 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:33:18,670 loginView.py[line:78] INFO 验证码：24x6
+2019-08-22 10:33:19,213 loginView.py[line:81] INFO 点击登录按钮
+2019-08-22 10:33:19,748 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-22 10:33:26,700 loginView.py[line:95] INFO 登录成功
+2019-08-22 10:33:26,732 loginView.py[line:96] INFO 用户名：011
+2019-08-22 10:33:26,732 loginView.py[line:101] INFO =============退出登录=============
+2019-08-22 10:33:28,083 loginView.py[line:104] INFO 退出成功
+2019-08-22 10:33:28,083 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:33:39,355 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:33:39,357 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:33:58,434 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 10:33:58,435 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:34:00,595 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-22 10:34:01,731 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:34:03,589 loginView.py[line:78] INFO 验证码：cbsc
+2019-08-22 10:34:04,139 loginView.py[line:81] INFO 点击登录按钮
+2019-08-22 10:34:04,665 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-22 10:34:10,871 loginView.py[line:95] INFO 登录成功
+2019-08-22 10:34:10,899 loginView.py[line:96] INFO 用户名：测试医生013
+2019-08-22 10:34:10,899 loginView.py[line:101] INFO =============退出登录=============
+2019-08-22 10:34:12,284 loginView.py[line:104] INFO 退出成功
+2019-08-22 10:34:12,284 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:34:23,471 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:34:23,474 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:34:42,220 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 10:34:42,220 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:34:44,453 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 10:34:45,647 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:34:47,520 loginView.py[line:78] INFO 验证码：4yz8
+2019-08-22 10:34:48,074 loginView.py[line:81] INFO 点击登录按钮
+2019-08-22 10:34:48,599 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-22 10:34:56,862 loginView.py[line:95] INFO 登录成功
+2019-08-22 10:34:56,880 loginView.py[line:96] INFO 用户名：测试店铺04
+2019-08-22 10:34:56,880 loginView.py[line:101] INFO =============退出登录=============
+2019-08-22 10:34:58,234 loginView.py[line:104] INFO 退出成功
+2019-08-22 10:34:58,234 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:35:09,482 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:35:09,484 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:35:27,877 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 10:35:27,877 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:35:30,332 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 10:35:31,461 loginView.py[line:50] INFO 密码：841543
+2019-08-22 10:35:33,302 loginView.py[line:78] INFO 验证码：z2nc
+2019-08-22 10:35:33,855 loginView.py[line:81] INFO 点击登录按钮
+2019-08-22 10:35:34,390 loginView.py[line:85] INFO =============检测用户名=============
+2019-08-22 10:35:42,647 loginView.py[line:91] ERROR 登录失败
+2019-08-22 10:35:42,647 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 10:35:42,816 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:36:07,667 runner.py[line:27] INFO start run test case...
+2019-08-22 10:36:07,668 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:36:07,670 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:36:25,594 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 10:36:25,595 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:36:27,805 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 10:36:28,963 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:36:30,818 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:36:41,854 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:36:41,856 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:36:59,284 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 10:36:59,285 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:37:01,384 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-22 10:37:02,483 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:37:04,321 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:37:15,512 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:37:15,518 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:37:35,405 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 10:37:35,405 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:37:37,777 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:37:48,455 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:37:48,456 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:38:06,170 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 10:38:06,170 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:38:08,602 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 10:38:09,791 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:38:10,562 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:38:15,565 start_end.py[line:24] INFO =============用例执行=============
+2019-08-22 10:38:15,568 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:38:33,390 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 10:38:33,390 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:38:35,368 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 10:38:36,530 loginView.py[line:50] INFO 密码：841543
+2019-08-22 10:38:38,401 start_end.py[line:32] INFO =============执行完成=============
+2019-08-22 10:47:05,408 runner.py[line:27] INFO start run test case...
+2019-08-22 10:47:05,412 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 10:47:05,414 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:47:23,560 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 10:47:23,561 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:47:25,742 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 10:47:26,845 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:47:28,695 loginView.py[line:77] INFO 验证码：
+2019-08-22 10:47:29,243 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 10:47:29,779 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 10:47:37,948 loginView.py[line:90] ERROR 登录失败
+2019-08-22 10:47:37,948 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 10:47:38,125 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 10:47:49,083 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 10:47:49,085 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:48:08,128 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 10:48:08,128 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:48:10,794 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-22 10:48:11,886 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:48:13,799 loginView.py[line:77] INFO 验证码：5qzk
+2019-08-22 10:48:14,353 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 10:48:14,881 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 10:48:21,808 loginView.py[line:94] INFO 登录成功
+2019-08-22 10:48:21,828 loginView.py[line:95] INFO 用户名：011
+2019-08-22 10:48:21,829 loginView.py[line:100] INFO =============退出登录=============
+2019-08-22 10:48:23,638 loginView.py[line:103] INFO 退出成功
+2019-08-22 10:48:23,638 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 10:48:34,821 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 10:48:34,824 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:48:54,028 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 10:48:54,029 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:48:56,556 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-22 10:48:57,665 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:48:59,506 loginView.py[line:77] INFO 验证码：ezéd
+2019-08-22 10:49:00,058 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 10:49:00,580 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 10:49:08,703 loginView.py[line:90] ERROR 登录失败
+2019-08-22 10:49:08,703 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 10:49:08,913 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 10:49:19,903 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 10:49:19,908 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:49:39,502 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 10:49:39,502 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:49:41,720 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 10:49:42,818 loginView.py[line:50] INFO 密码：123456
+2019-08-22 10:49:44,656 loginView.py[line:77] INFO 验证码：tbrmn
+2019-08-22 10:49:45,199 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 10:49:45,743 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 10:49:53,982 loginView.py[line:90] ERROR 登录失败
+2019-08-22 10:49:53,982 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 10:49:54,209 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 10:50:05,217 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 10:50:05,219 desired_caps.py[line:59] INFO start app...
+2019-08-22 10:50:23,341 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 10:50:23,342 loginView.py[line:38] INFO =============登录=============
+2019-08-22 10:50:25,578 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 10:50:26,765 loginView.py[line:50] INFO 密码：841543
+2019-08-22 10:50:28,618 loginView.py[line:77] INFO 验证码：kdcm
+2019-08-22 10:50:29,173 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 10:50:29,709 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 10:50:38,164 loginView.py[line:90] ERROR 登录失败
+2019-08-22 10:50:38,164 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 10:50:38,365 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 14:49:42,565 runner.py[line:31] INFO start run test case...
+2019-08-22 14:49:42,565 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 14:49:42,567 desired_caps.py[line:59] INFO start app...
+2019-08-22 14:50:16,765 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 14:50:16,767 loginView.py[line:38] INFO =============登录=============
+2019-08-22 14:50:19,122 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 14:50:20,407 loginView.py[line:50] INFO 密码：123456
+2019-08-22 14:50:22,785 loginView.py[line:77] INFO 验证码：rqtm
+2019-08-22 14:50:23,391 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 14:50:23,990 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 14:50:31,420 loginView.py[line:94] INFO 登录成功
+2019-08-22 14:50:31,453 loginView.py[line:95] INFO 用户名：测试自动化
+2019-08-22 14:50:31,453 loginView.py[line:100] INFO =============退出登录=============
+2019-08-22 14:50:32,296 loginView.py[line:103] INFO 退出成功
+2019-08-22 14:50:32,296 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 14:50:43,442 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 14:50:43,443 desired_caps.py[line:59] INFO start app...
+2019-08-22 14:51:02,946 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 14:51:02,946 loginView.py[line:38] INFO =============登录=============
+2019-08-22 14:51:05,444 loginView.py[line:46] INFO 用户名：16212345678
+2019-08-22 14:51:06,759 loginView.py[line:50] INFO 密码：123456
+2019-08-22 14:51:08,801 loginView.py[line:77] INFO 验证码：d58y
+2019-08-22 14:51:09,457 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 14:51:10,065 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 14:51:16,358 loginView.py[line:94] INFO 登录成功
+2019-08-22 14:51:16,385 loginView.py[line:95] INFO 用户名：011
+2019-08-22 14:51:16,385 loginView.py[line:100] INFO =============退出登录=============
+2019-08-22 14:51:17,360 loginView.py[line:103] INFO 退出成功
+2019-08-22 14:51:17,361 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 14:51:28,731 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 14:51:28,734 desired_caps.py[line:59] INFO start app...
+2019-08-22 14:51:49,748 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 14:51:49,749 loginView.py[line:38] INFO =============登录=============
+2019-08-22 14:51:52,192 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-22 14:51:53,475 loginView.py[line:50] INFO 密码：123456
+2019-08-22 14:51:55,463 loginView.py[line:77] INFO 验证码：f8fe
+2019-08-22 14:51:56,060 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 14:51:56,621 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 14:52:02,596 loginView.py[line:94] INFO 登录成功
+2019-08-22 14:52:02,701 loginView.py[line:95] INFO 用户名：测试医生013
+2019-08-22 14:52:02,701 loginView.py[line:100] INFO =============退出登录=============
+2019-08-22 14:52:03,702 loginView.py[line:103] INFO 退出成功
+2019-08-22 14:52:03,703 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 14:52:14,759 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 14:52:14,761 desired_caps.py[line:59] INFO start app...
+2019-08-22 14:52:33,561 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 14:52:33,561 loginView.py[line:38] INFO =============登录=============
+2019-08-22 14:52:35,448 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 14:52:36,576 loginView.py[line:50] INFO 密码：123456
+2019-08-22 14:52:38,516 loginView.py[line:77] INFO 验证码：dzb7
+2019-08-22 14:52:39,134 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 14:52:39,642 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 14:52:45,361 loginView.py[line:94] INFO 登录成功
+2019-08-22 14:52:45,396 loginView.py[line:95] INFO 用户名：测试店铺04
+2019-08-22 14:52:45,397 loginView.py[line:100] INFO =============退出登录=============
+2019-08-22 14:52:46,327 loginView.py[line:103] INFO 退出成功
+2019-08-22 14:52:46,327 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 14:52:57,416 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 14:52:57,418 desired_caps.py[line:59] INFO start app...
+2019-08-22 14:53:15,237 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 14:53:15,238 loginView.py[line:38] INFO =============登录=============
+2019-08-22 14:53:17,026 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 14:53:18,911 loginView.py[line:50] INFO 密码：841543
+2019-08-22 14:53:20,821 loginView.py[line:77] INFO 验证码：7Won
+2019-08-22 14:53:21,451 loginView.py[line:80] INFO 点击登录按钮
+2019-08-22 14:53:21,999 loginView.py[line:84] INFO =============检测用户名=============
+2019-08-22 14:53:30,334 loginView.py[line:90] ERROR 登录失败
+2019-08-22 14:53:30,334 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 14:53:30,558 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:17:31,552 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:17:38,841 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:17:49,006 runner.py[line:31] INFO start run test case...
+2019-08-22 15:17:49,006 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:17:49,008 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:18:10,555 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 15:18:10,556 loginView.py[line:38] INFO =============登录=============
+2019-08-22 15:18:13,319 loginView.py[line:46] INFO 用户名：16312345678
+2019-08-22 15:18:14,579 loginView.py[line:50] INFO 密码：123456
+2019-08-22 15:18:16,530 loginView.py[line:76] INFO 验证码：kknf
+2019-08-22 15:18:17,106 loginView.py[line:79] INFO 点击登录按钮
+2019-08-22 15:18:18,465 loginView.py[line:83] INFO =============检测用户名=============
+2019-08-22 15:18:26,890 loginView.py[line:89] ERROR 登录失败
+2019-08-22 15:18:26,890 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 15:18:27,095 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:18:37,965 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:18:37,967 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:19:04,455 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:19:04,457 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:19:23,084 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 15:19:23,085 loginView.py[line:38] INFO =============登录=============
+2019-08-22 15:19:24,879 loginView.py[line:46] INFO 用户名：16412345678
+2019-08-22 15:19:26,142 loginView.py[line:50] INFO 密码：123456
+2019-08-22 15:19:28,182 loginView.py[line:76] INFO 验证码：pzr3
+2019-08-22 15:19:28,809 loginView.py[line:79] INFO 点击登录按钮
+2019-08-22 15:19:30,558 loginView.py[line:83] INFO =============检测用户名=============
+2019-08-22 15:19:34,087 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:19:39,111 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:19:39,122 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:19:59,075 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 15:19:59,076 loginView.py[line:38] INFO =============登录=============
+2019-08-22 15:20:00,286 loginView.py[line:46] INFO 用户名：15502043438
+2019-08-22 15:20:01,682 loginView.py[line:50] INFO 密码：123456
+2019-08-22 15:20:03,816 loginView.py[line:76] INFO 验证码：63c4
+2019-08-22 15:20:04,465 loginView.py[line:79] INFO 点击登录按钮
+2019-08-22 15:20:05,027 loginView.py[line:83] INFO =============检测用户名=============
+2019-08-22 15:20:15,108 loginView.py[line:93] INFO 登录成功
+2019-08-22 15:20:15,180 loginView.py[line:94] INFO 用户名：测试店铺04
+2019-08-22 15:20:15,180 loginView.py[line:99] INFO =============退出登录=============
+2019-08-22 15:20:17,070 loginView.py[line:102] INFO 退出成功
+2019-08-22 15:20:17,071 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:20:28,382 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:20:28,399 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:20:52,978 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 15:20:52,979 loginView.py[line:38] INFO =============登录=============
+2019-08-22 15:20:55,339 loginView.py[line:46] INFO 用户名：16543134464
+2019-08-22 15:20:56,632 loginView.py[line:50] INFO 密码：841543
+2019-08-22 15:20:58,745 loginView.py[line:76] INFO 验证码：
+2019-08-22 15:20:59,382 loginView.py[line:79] INFO 点击登录按钮
+2019-08-22 15:20:59,958 loginView.py[line:83] INFO =============检测用户名=============
+2019-08-22 15:21:08,290 loginView.py[line:89] ERROR 登录失败
+2019-08-22 15:21:08,290 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 15:21:08,503 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:45:45,461 runner.py[line:33] INFO start run test case...
+2019-08-22 15:45:45,462 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:45:45,465 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:46:03,725 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-22 15:46:03,728 loginView.py[line:43] INFO =============登录=============
+2019-08-22 15:46:05,713 loginView.py[line:51] INFO 用户名：16312345678
+2019-08-22 15:46:06,952 loginView.py[line:55] INFO 密码：123456
+2019-08-22 15:46:09,567 loginView.py[line:81] INFO 验证码：e7ee
+2019-08-22 15:46:10,131 loginView.py[line:84] INFO 点击登录按钮
+2019-08-22 15:46:11,725 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-22 15:46:17,387 loginView.py[line:98] INFO 登录成功
+2019-08-22 15:46:17,428 loginView.py[line:99] INFO 用户名：测试自动化
+2019-08-22 15:46:17,429 loginView.py[line:104] INFO =============退出登录=============
+2019-08-22 15:46:18,303 loginView.py[line:107] INFO 退出成功
+2019-08-22 15:46:18,304 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:46:29,453 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:46:29,456 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:46:48,628 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-22 15:46:48,629 loginView.py[line:43] INFO =============登录=============
+2019-08-22 15:46:51,153 loginView.py[line:51] INFO 用户名：16212345678
+2019-08-22 15:46:52,488 loginView.py[line:55] INFO 密码：123456
+2019-08-22 15:46:54,451 loginView.py[line:81] INFO 验证码：p44z
+2019-08-22 15:46:55,036 loginView.py[line:84] INFO 点击登录按钮
+2019-08-22 15:46:56,794 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-22 15:47:02,817 loginView.py[line:98] INFO 登录成功
+2019-08-22 15:47:02,850 loginView.py[line:99] INFO 用户名：011
+2019-08-22 15:47:02,856 loginView.py[line:104] INFO =============退出登录=============
+2019-08-22 15:47:03,847 loginView.py[line:107] INFO 退出成功
+2019-08-22 15:47:03,849 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:47:15,270 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:47:15,279 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:47:34,076 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-22 15:47:34,091 loginView.py[line:43] INFO =============登录=============
+2019-08-22 15:47:35,979 loginView.py[line:51] INFO 用户名：16412345678
+2019-08-22 15:47:37,258 loginView.py[line:55] INFO 密码：123456
+2019-08-22 15:47:39,213 loginView.py[line:81] INFO 验证码：wzns
+2019-08-22 15:47:39,830 loginView.py[line:84] INFO 点击登录按钮
+2019-08-22 15:47:40,428 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-22 15:47:47,638 loginView.py[line:98] INFO 登录成功
+2019-08-22 15:47:47,692 loginView.py[line:99] INFO 用户名：测试医生013
+2019-08-22 15:47:47,694 loginView.py[line:104] INFO =============退出登录=============
+2019-08-22 15:47:48,727 loginView.py[line:107] INFO 退出成功
+2019-08-22 15:47:48,731 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:47:59,844 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:47:59,848 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:48:18,280 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-22 15:48:18,281 loginView.py[line:43] INFO =============登录=============
+2019-08-22 15:48:20,414 loginView.py[line:51] INFO 用户名：15502043438
+2019-08-22 15:48:21,696 loginView.py[line:55] INFO 密码：123456
+2019-08-22 15:48:23,664 loginView.py[line:81] INFO 验证码：cc46
+2019-08-22 15:48:24,290 loginView.py[line:84] INFO 点击登录按钮
+2019-08-22 15:48:24,833 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-22 15:48:32,308 loginView.py[line:98] INFO 登录成功
+2019-08-22 15:48:32,354 loginView.py[line:99] INFO 用户名：测试店铺04
+2019-08-22 15:48:32,357 loginView.py[line:104] INFO =============退出登录=============
+2019-08-22 15:48:33,377 loginView.py[line:107] INFO 退出成功
+2019-08-22 15:48:33,381 start_end.py[line:34] INFO =============执行完成=============
+2019-08-22 15:48:44,918 start_end.py[line:26] INFO =============用例执行=============
+2019-08-22 15:48:44,921 desired_caps.py[line:59] INFO start app...
+2019-08-22 15:49:04,581 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-22 15:49:04,582 loginView.py[line:43] INFO =============登录=============
+2019-08-22 15:49:06,294 loginView.py[line:51] INFO 用户名：16543134464
+2019-08-22 15:49:08,155 loginView.py[line:55] INFO 密码：841543
+2019-08-22 15:49:10,180 loginView.py[line:81] INFO 验证码：s6qs
+2019-08-22 15:49:10,798 loginView.py[line:84] INFO 点击登录按钮
+2019-08-22 15:49:11,343 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-22 15:49:19,655 loginView.py[line:94] ERROR 登录失败
+2019-08-22 15:49:19,656 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-22 15:49:19,903 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 10:20:39,935 runner.py[line:33] INFO start run test case...
+2019-08-23 10:20:39,936 start_end.py[line:26] INFO =============用例执行=============
+2019-08-23 10:20:39,940 desired_caps.py[line:59] INFO start app...
+2019-08-23 10:21:04,709 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-08-23 10:21:04,711 loginView.py[line:43] INFO =============登录=============
+2019-08-23 10:21:06,782 loginView.py[line:51] INFO 用户名：16312345678
+2019-08-23 10:21:08,083 loginView.py[line:55] INFO 密码：123456
+2019-08-23 10:21:10,313 loginView.py[line:81] INFO 验证码：bqbq
+2019-08-23 10:21:10,919 loginView.py[line:84] INFO 点击登录按钮
+2019-08-23 10:21:11,635 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-23 10:21:20,040 loginView.py[line:98] INFO 登录成功
+2019-08-23 10:21:20,108 loginView.py[line:99] INFO 用户名：测试自动化
+2019-08-23 10:21:20,108 loginView.py[line:104] INFO =============退出登录=============
+2019-08-23 10:21:21,191 loginView.py[line:107] INFO 退出成功
+2019-08-23 10:21:21,191 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 10:21:32,850 start_end.py[line:26] INFO =============用例执行=============
+2019-08-23 10:21:32,852 desired_caps.py[line:59] INFO start app...
+2019-08-23 10:21:55,749 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-08-23 10:21:55,750 loginView.py[line:43] INFO =============登录=============
+2019-08-23 10:21:58,293 loginView.py[line:51] INFO 用户名：16212345678
+2019-08-23 10:21:59,471 loginView.py[line:55] INFO 密码：123456
+2019-08-23 10:22:01,538 loginView.py[line:81] INFO 验证码：b2zk
+2019-08-23 10:22:02,179 loginView.py[line:84] INFO 点击登录按钮
+2019-08-23 10:22:02,724 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-23 10:22:10,536 loginView.py[line:98] INFO 登录成功
+2019-08-23 10:22:10,575 loginView.py[line:99] INFO 用户名：011
+2019-08-23 10:22:10,575 loginView.py[line:104] INFO =============退出登录=============
+2019-08-23 10:22:11,704 loginView.py[line:107] INFO 退出成功
+2019-08-23 10:22:11,705 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 10:22:23,170 start_end.py[line:26] INFO =============用例执行=============
+2019-08-23 10:22:23,173 desired_caps.py[line:59] INFO start app...
+2019-08-23 10:22:40,858 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-08-23 10:22:40,858 loginView.py[line:43] INFO =============登录=============
+2019-08-23 10:22:42,665 loginView.py[line:51] INFO 用户名：16412345678
+2019-08-23 10:22:44,525 loginView.py[line:55] INFO 密码：123456
+2019-08-23 10:22:46,638 loginView.py[line:81] INFO 验证码：p7tf
+2019-08-23 10:22:47,291 loginView.py[line:84] INFO 点击登录按钮
+2019-08-23 10:22:47,880 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-23 10:22:56,488 loginView.py[line:94] ERROR 登录失败
+2019-08-23 10:22:56,489 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-23 10:22:56,878 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 10:23:01,889 start_end.py[line:26] INFO =============用例执行=============
+2019-08-23 10:23:01,890 desired_caps.py[line:59] INFO start app...
+2019-08-23 10:23:25,888 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-08-23 10:23:25,888 loginView.py[line:43] INFO =============登录=============
+2019-08-23 10:23:27,461 loginView.py[line:51] INFO 用户名：15502043438
+2019-08-23 10:23:28,719 loginView.py[line:55] INFO 密码：123456
+2019-08-23 10:23:30,827 loginView.py[line:81] INFO 验证码：XSXN
+2019-08-23 10:23:31,436 loginView.py[line:84] INFO 点击登录按钮
+2019-08-23 10:23:32,026 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-23 10:23:40,054 loginView.py[line:98] INFO 登录成功
+2019-08-23 10:23:40,568 loginView.py[line:99] INFO 用户名：测试店铺04
+2019-08-23 10:23:40,568 loginView.py[line:104] INFO =============退出登录=============
+2019-08-23 10:23:41,711 loginView.py[line:107] INFO 退出成功
+2019-08-23 10:23:41,712 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 10:23:52,932 start_end.py[line:26] INFO =============用例执行=============
+2019-08-23 10:23:52,934 desired_caps.py[line:59] INFO start app...
+2019-08-23 10:24:10,947 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-08-23 10:24:10,947 loginView.py[line:43] INFO =============登录=============
+2019-08-23 10:24:13,063 loginView.py[line:51] INFO 用户名：16543134464
+2019-08-23 10:24:14,224 loginView.py[line:55] INFO 密码：841543
+2019-08-23 10:24:16,509 loginView.py[line:81] INFO 验证码：wb5
+2019-08-23 10:24:17,197 loginView.py[line:84] INFO 点击登录按钮
+2019-08-23 10:24:17,828 loginView.py[line:88] INFO =============检测用户名=============
+2019-08-23 10:24:26,358 loginView.py[line:94] ERROR 登录失败
+2019-08-23 10:24:26,358 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-08-23 10:24:26,592 start_end.py[line:34] INFO =============执行完成=============
+2019-08-23 11:51:31,418 desired_caps2.py[line:63] INFO start app... port:4723 start run 127.0.0.1:62001 at Fri Aug 23 11:51:31 2019
+2019-09-09 17:03:31,631 runner.py[line:33] INFO start run test case...
+2019-09-09 17:03:31,632 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:03:31,635 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:03:32,120 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:03:32,124 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:03:32,175 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:03:32,177 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:03:32,228 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:03:32,230 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:03:32,265 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:03:32,268 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:05:30,887 runner.py[line:33] INFO start run test case...
+2019-09-09 17:05:30,887 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:05:30,889 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:06:00,994 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-09-09 17:06:00,996 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:06:03,791 loginView.py[line:51] INFO 用户名：16312345678
+2019-09-09 17:06:05,005 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:06:06,668 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:06:17,522 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:06:17,525 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:06:33,725 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-09-09 17:06:33,726 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:06:36,142 loginView.py[line:51] INFO 用户名：16212345678
+2019-09-09 17:06:37,889 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:06:39,498 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:06:50,332 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:06:50,340 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:07:07,279 test_login.py[line:55] INFO =============测试登录16512345678=============
+2019-09-09 17:07:07,280 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:07:09,644 loginView.py[line:51] INFO 用户名：16412345678
+2019-09-09 17:07:10,779 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:07:12,375 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:07:22,966 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:07:22,969 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:07:39,680 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-09-09 17:07:39,682 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:07:41,020 loginView.py[line:51] INFO 用户名：15502043438
+2019-09-09 17:07:42,189 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:07:43,873 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:07:48,882 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:07:48,884 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:08:05,323 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-09-09 17:08:05,324 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:08:08,403 loginView.py[line:51] INFO 用户名：16543134464
+2019-09-09 17:08:09,521 loginView.py[line:55] INFO 密码：841543
+2019-09-09 17:08:11,153 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:09:55,279 runner.py[line:33] INFO start run test case...
+2019-09-09 17:09:55,280 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:09:55,282 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:12:24,947 runner.py[line:33] INFO start run test case...
+2019-09-09 17:12:24,947 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:12:24,949 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:12:39,676 test_login.py[line:27] INFO =============测试登录16312345678=============
+2019-09-09 17:12:39,678 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:12:42,011 loginView.py[line:51] INFO 用户名：16312345678
+2019-09-09 17:12:43,171 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:12:45,270 loginView.py[line:81] INFO 验证码：33nm
+2019-09-09 17:12:45,818 loginView.py[line:84] INFO 点击登录按钮
+2019-09-09 17:12:47,513 loginView.py[line:88] INFO =============检测用户名=============
+2019-09-09 17:12:53,013 loginView.py[line:98] INFO 登录成功
+2019-09-09 17:12:53,033 loginView.py[line:99] INFO 用户名：Jklo
+2019-09-09 17:12:53,033 loginView.py[line:104] INFO =============退出登录=============
+2019-09-09 17:12:53,832 loginView.py[line:107] INFO 退出成功
+2019-09-09 17:12:53,833 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:13:04,883 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:13:04,885 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:13:20,958 test_login.py[line:41] INFO =============测试登录16212345678=============
+2019-09-09 17:13:20,959 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:13:23,753 loginView.py[line:51] INFO 用户名：16212345678
+2019-09-09 17:13:25,008 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:13:26,927 loginView.py[line:81] INFO 验证码：6wtf
+2019-09-09 17:13:27,484 loginView.py[line:84] INFO 点击登录按钮
+2019-09-09 17:13:28,037 loginView.py[line:88] INFO =============检测用户名=============
+2019-09-09 17:13:33,217 loginView.py[line:98] INFO 登录成功
+2019-09-09 17:13:33,910 loginView.py[line:99] INFO 用户名：011
+2019-09-09 17:13:33,912 loginView.py[line:104] INFO =============退出登录=============
+2019-09-09 17:13:34,718 loginView.py[line:107] INFO 退出成功
+2019-09-09 17:13:34,720 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:13:45,686 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:13:45,689 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:14:20,215 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:14:20,218 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:14:35,191 test_login.py[line:69] INFO =============测试登录15502043438=============
+2019-09-09 17:14:35,195 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:14:37,975 loginView.py[line:51] INFO 用户名：15502043438
+2019-09-09 17:14:39,138 loginView.py[line:55] INFO 密码：123456
+2019-09-09 17:14:40,812 start_end.py[line:34] INFO =============执行完成=============
+2019-09-09 17:14:51,409 start_end.py[line:26] INFO =============用例执行=============
+2019-09-09 17:14:51,411 desired_caps.py[line:59] INFO start app...
+2019-09-09 17:15:06,915 test_login.py[line:83] INFO =============测试错误账号登录=============
+2019-09-09 17:15:06,915 loginView.py[line:43] INFO =============登录=============
+2019-09-09 17:15:09,016 loginView.py[line:51] INFO 用户名：16543134464
+2019-09-09 17:15:10,237 loginView.py[line:55] INFO 密码：841543
+2019-09-09 17:15:12,179 loginView.py[line:81] INFO 验证码：nkaq
+2019-09-09 17:15:12,737 loginView.py[line:84] INFO 点击登录按钮
+2019-09-09 17:15:13,279 loginView.py[line:88] INFO =============检测用户名=============
+2019-09-09 17:15:43,775 loginView.py[line:94] ERROR 登录失败
+2019-09-09 17:15:43,775 common_fun.py[line:113] INFO get 登录失败 screensht
+2019-09-09 17:15:44,093 start_end.py[line:34] INFO =============执行完成=============
+2019-09-19 12:19:25,798 runner.py[line:33] INFO start run test case...
+2019-09-19 12:19:25,799 start_end.py[line:26] INFO =============用例执行=============
+2019-09-19 12:19:25,801 desired_caps.py[line:59] INFO start app...
