@@ -3524,3 +3524,1572 @@
 #
 # print(logger1.parent, id(logger1.parent))
 
+
+# import uuid
+#
+# uuid = uuid.uuid4()
+# print(uuid)
+#
+#
+# from collections import Counter
+#
+# def url(asd, *args, **kwargs):
+#
+#     # b = Counter(asd)
+#     # print(dict(b))
+#     # print(args)
+#     # print(kwargs)
+#     # print(kwargs['data'])
+#     #
+#     # for i in range(b['{']):
+#     #     print(args[i])
+#     #
+#     #     print(asd.format(args[i]))
+#
+#     c = []
+#     d = []
+#     print(kwargs)
+    # k = kwargs['data'].keys()
+    # print(k)
+    # for i in k:
+    #     c.append(i)
+    # v = kwargs['data'].values()
+    # print(v)
+    # for i in v:
+    #     d.append(i)
+    #
+    # asd = asd + '?'
+    # for i in range(len(kwargs['data'])):
+    #     print(i)
+    #     asd += (c[i] + '=' + c[i] + '&')
+    #
+    #
+    # print(asd)
+
+
+    # c = []
+    #
+    # for i in range(len(b)):
+    #     if b[i] == '{}':
+    #         c.append(b[i])
+    #
+    #
+    #
+    # print(asd.format(*args))
+
+#
+# data = {
+#     'baidu' : 'baidu',
+#     'bilibili' : 'bilibili',
+#     'youku' : 'youku'
+# }
+#
+# data2 = {
+#     'baidu' : 'baidu'
+# }
+#
+# data3 = ('baidu', 'bilibili')
+# print(data3[0])
+#
+# data4 = 'baidu'
+# data5 = 'bilibili'
+# asd = 'http://www.{}.com'
+# u = url(asd, data4)
+
+
+
+# suffix = '/goods/{}/area/{}'
+#
+# a = 1, 2
+# b = [1, 2]
+# print(a)
+# print(suffix.format(b[0], b[1]))
+
+
+# import requests, time, json, csv
+#
+# def write_file(item):
+#     with open("D://lagou", "a+", encoding="utf-8") as f:
+#         file = csv.writer(f)
+#         try:
+#             file.writerow(item)
+#         except:
+#             print("-----------------出错了")
+#
+# def main():
+#     start_url = "https://www.lagou.com/jobs/list_%E8%87%AA%E5%8A%A8%E5%8C%96?labelWords=&fromSearch=true&suginput="
+#     headers = {
+#     "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+#     "Accept": "application/json, text/javascript, */*; q=0.01",
+#     "Referer": "https://www.lagou.com/jobs/list_%E8%87%AA%E5%8A%A8%E5%8C%96?labelWords=&fromSearch=true&suginput="
+#     }
+#     url = 'https://www.lagou.com/jobs/positionAjax.json?city=杭州&needAddtionalResult=false'
+#     list = []
+#     for j in range(20):
+#         data = {
+#             "first": "false",
+#             "pn": str(j),
+#             "kd": "软件测试工程师"
+# }
+#         s = requests.Session()
+#         s.get(start_url, headers=headers, timeout=3)
+#         cookie = s.cookies
+#
+#         res = s.post(url, data=data, headers=headers, timeout=3)
+#         time.sleep(6)
+#         res.encoding = res.apparent_encoding
+#         text = json.loads(res.text)   #解析成dict
+#         print(text)
+#         info = text['content']['positionResult']['result']
+#         for i in info:
+#             city = i['city']
+#             companyFullName = i['companyFullName']
+#             positionName = i['positionName']
+#             salary = i['salary']
+#             workYear = i['workYear']
+#             companySize = i['companySize']
+#             education = i['education']
+#             linestaion = i['linestaion']
+#             positionAdvantage = i['positionAdvantage']
+#             industryField = i['industryField']
+#             companyLabelList = i['companyLabelList']
+#             district = i['district']
+#             createTime = i['createTime']
+#             financeStage = i['financeStage']
+#             list = [city, companyFullName, positionName, salary, workYear, companySize,district, education,linestaion, positionAdvantage,
+#                     industryField, companyLabelList, financeStage,createTime]
+#             print(list)
+#             # write_file(list)
+#
+# if __name__ == '__main__':
+#     main()
+
+
+# import requests
+# base_url = 'http://httpbin.org'
+#
+# form_data = {'uname':'Test00002','pwd':'123456'}
+# # 发送POST请求，格式如：requests.post(url,data)
+# r = requests.post(base_url+'/post',data=form_data)
+# print(r.text)
+
+# 导入requests库
+# import requests
+#
+# # 定义base_url作为基础被测URL
+# base_url = 'http://httpbin.org'
+#
+# # 定义请求所需的参数，参数之间以英文逗号隔开
+# param_data = {'uname':'Test00001','pwd':'123456'}
+# # 发送GET请求，格式如：requests.get(url,params)
+# r = requests.get(base_url+'/get',params=param_data)
+# print(r.url)    # 输出请求的url
+# print(r.status_code)    #输出响应的状态码
+
+
+# dict = {
+#         'baidu': 'baidu',
+#         'bilibili': 'bilibili',
+#         'youku': 'youku'
+# }
+#
+#
+# for i in dict:
+#     print(i)
+
+
+# import json, time, random, uuid
+# import requests
+# import hashlib
+#
+# s = requests.session()
+#
+# up = {
+#     'username' : '13412345678',
+#     'password' : 'e10adc3949ba59abbe56e057f20f883e'
+# }
+# username = '16312345678'
+# password = '123456'
+#
+# h = hashlib.md5()
+# h.update(password.encode('utf-8'))
+# p = str(h.hexdigest())
+#
+# login_url = r'http://dev.buyer.wdklian.com/passport/login/noCaptcha?username=%s&password=%s' % (username, p)
+# # login_url = r'http://dev.seller.wdklian.com/passport/login/noCaptcha?username=%s&password=%s' % (username, p)
+# # login_url = r'http://dev.buyer.wdklian.com/passport/login/noCaptcha?username=13412345678&password=e10adc3949ba59abbe56e057f20f883e'
+# # login_url = r'http://dev.buyer.wdklian.com/passport/login/noCaptcha'
+#
+# # response = requests.get(login_url, params=up)
+# response = s.get(login_url)
+# print(response)
+# print(response.text)
+#
+#
+# js = json.loads(response.text)
+#
+# uid = str(js['uid'])
+# token = str(js['access_token'])
+# timestamp = str(int(time.time() * 1000))
+# nonce = str(random.randint(100000,999999))
+# sign1 = uid + nonce + timestamp + token
+# sign = hashlib.md5((uid + nonce + timestamp + token).encode("utf-8")).hexdigest()
+# uuid = str(uuid.uuid4())
+#
+# headers = {
+#     'Authorization' : token,
+#     'uuid' : uuid
+# }
+#
+# # url = "http://httpbin.org/get"
+# # url = "http://httpbin.org/post"
+# url = 'http://dev.buyer.wdklian.com/goods/345/area/123129'
+# # url = 'http://dev.buyer.wdklian.com/trade/carts/o2o/all'
+# # url = 'http://dev.buyer.wdklian.com/passport/trade/carts/o2o'
+# # url = 'http://dev.buyer.wdklian.com/care/health_advert/page'
+# # url = 'http://dev.buyer.wdklian.com/care//care/health_advert/22'
+# url += "?uid="+ uid + "&timestamp=" + timestamp + "&nonce=" + nonce + "&sign=" + sign
+#
+# must_data = {
+#     'uid'       : uid,
+#     'timestamp' : timestamp,
+#     'nonce'     : nonce,
+#     'sign'      : sign
+# }
+#
+# # data = {
+# #     'sku_id': '495',
+# #     'num': '1'
+# # }
+#
+# data = {
+#     'page_no' : '1',
+#     'page_size' : '10'
+# }
+#
+# # r = s.post(url, data=data, headers=headers)
+# # r = s.post(url, data=must_data, headers=headers)
+# # r = s.get(url, params=must_data, headers=headers)
+# r = s.get(url, headers=headers)
+# print(r)
+# print('响应正文：', r.text)
+# print('响应头：', r.headers)
+# print('响应url：', r.url)
+# print('响应对应请求方式：', r.request)
+
+
+# region = {
+#     'province_id': '18',
+#     'province': '湖南',
+#
+#     'city_id': '1482',
+#     'city': '长沙市',
+#
+#     'county_id': '48941',
+#     'county': '浏阳市',
+#
+#     'town_id': '52588',
+#     'town': '城区',
+# }
+#
+# url=''
+#
+# keys_list = []
+# valuse_list = []
+#
+#
+# print(region.keys())
+# print(region.values())
+#
+# for i in region.keys():
+#     keys_list.append(i)
+# print(keys_list)
+#
+# for i in region.values():
+#     valuse_list.append(i)
+# print(valuse_list)
+#
+#
+# for i in range(len(region)):
+#     url += '&' + keys_list[i] + '=' + valuse_list[i]
+# print(url)
+
+
+
+# a = '123{0}912{1}431'
+#
+# b = 'asd'
+#
+# c = 'dfgd'
+#
+# d = [b, c]
+#
+# print(d)
+#
+#
+#
+# for i in range(len(b)):
+#     pass
+#
+# a = a.format(*d)
+# print(a)
+#
+# del_data = {
+#     'a' : 1
+# }
+#
+# import requests
+# r = requests.delete('http://httpbin.org/delete', params=del_data)                                    # DELETE请求
+# print(r)
+# print(r.text)
+
+
+
+
+# import tkinter as tk
+#
+# app = tk.Tk()
+# app.title('FishC Demo')
+#
+# v = tk.StringVar()
+#
+# longtext = '''
+# 我的第二个窗口程序！
+# 换行
+# '''
+#
+# text = '''
+# longtext
+# '''
+#
+# theLabel = tk.Label(
+#     app,
+#     # text=longtext,
+#     textvariable=v,
+#     font=('微软雅黑', 20),
+#     fg='green',
+#     anchor='w',
+#     justify='left'
+# )
+#
+# v.set(longtext)
+# v.set(text)
+#
+# theLabel.pack()
+#
+# app.mainloop()
+
+#
+# import tkinter as tk
+#
+# class APP:
+#     def __init__(self, master):
+#         frame = tk.Frame(master)
+#         frame.pack(side=tk.LEFT, padx=10, pady=10)
+#
+#         self.hi_there = tk.Button(frame,
+#                                   text='打招呼',
+#                                   bg='black',
+#                                   fg='blue',
+#                                   command=self.say_hi)
+#         self.hi_there.pack()
+#
+#
+#     def say_hi(self):
+#         print('互联网的广大朋友大家好，我是小甲鱼！')
+#
+#
+# root = tk.Tk()
+# app = APP(root)
+#
+# root.mainloop()
+
+
+# import tkinter as tk
+#
+# class APP():
+#
+#     def __init__(self, master, photo):
+#         label = tk.Label(master,
+#                          image=photo,
+#
+#                          )
+#         label.pack()
+#
+#
+# root = tk.Tk()
+# root.title('tkinter的图片！！！')
+#
+# photo = tk.PhotoImage(file=r'C:\Users\zhangyi\Desktop\QQ图片20191119104244.png')
+#
+# app = APP(root, photo)
+#
+# root.mainloop()
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# photo = PhotoImage(file=r'C:\Users\zhangyi\Desktop\QQ图片20191119104244.png')
+# textLabel = Label(root,
+#                   text='你好！',
+#                   image=photo,
+#                   compound=CENTER,
+#                   font=('微软雅黑', 20),
+#                   fg='blue'
+#                   )
+# textLabel.pack()
+#
+# #
+# # imageLabel = Label(root, image=photo)
+# # imageLabel.pack()
+#
+# root.mainloop()
+
+
+
+# from tkinter import *
+#
+# def callback():
+#     var.set('关我屁事！')
+#
+#
+# root = Tk()
+# root.geometry('400x300')
+#
+# frame1 = Frame(root)
+# frame2 = Frame(root)
+#
+# var = StringVar()
+# var.set('你好！')
+#
+# photo = PhotoImage(file=r'C:\Users\zhangyi\Desktop\QQ图片20191119104244.png')
+#
+# textLabel = Label(frame1,
+#                   textvariable=var,
+#                   # image=photo,
+#                   compound=CENTER,
+#                   font=('微软雅黑', 20),
+#                   fg='blue'
+#                   )
+# textLabel.pack()
+#
+#
+# theButton = Button(frame2, text='我不好！', command=callback, bg='red', fg='blue')
+# theButton.pack(side=LEFT, expand=YES, fill=Y)
+#
+# frame1.pack()
+# frame2.pack(side=LEFT, expand=YES, fill=BOTH)
+#
+# root.mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# v = IntVar()
+# print(v)
+#
+# c = Checkbutton(root, text='测试一下', variable=v)
+# c.pack()
+#
+# l = Label(root, textvariable=v)
+# l.pack()
+#
+# root.mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# group = LabelFrame(root, text='客官，炼铜吗！！！', padx=10, pady=10)
+# group.pack(padx=10, pady=10)
+#
+#
+# Girls = ['略略酱', '小白菜', '依文酱', '萌月月', '小水银']
+#
+# v = []
+#
+# for girl in Girls:
+#     v.append(IntVar())
+#     c = Checkbutton(group, text=girl, variable=v[-1],
+#                     font=('微软雅黑', 20),
+#                     fg='red')
+#     c.pack(anchor=W,
+#            )
+#
+#
+# root.mainloop()
+
+
+# def test(*args, **kwargs):
+#     return args, kwargs
+#
+# a = ['nihao', 'buhao']
+#
+# b = {
+#     'nihao' : 1,
+#     'buhao' : 2
+# }
+#
+# t = test(a)
+# print(t)
+#
+# t2 = test(b)
+# print(t2)
+#
+# t3 = test(a, b)
+# print(t3)
+
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# e = Entry(root)
+# e.pack(padx=20, pady=20)
+#
+#
+# e.delete(0, END)
+# e.insert(0, '默认文本...')
+#
+# mainloop()
+
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# f1 = Frame(root)
+# f2 = Frame(root)
+# f3 = Frame(root)
+#
+# l1 = Label(f1, text='作品：', font=('微软雅黑', 15))
+# l1.pack(side='left', padx=50)
+# e1 = Entry(f1)
+# e1.pack(side='right', padx=20, fill='x')
+#
+# l2 = Label(f2, text='作者：', font=('微软雅黑', 15))
+# l2.pack(side='left', padx=50)
+# e2 = Entry(f2)
+# e2.pack(side='right', padx=20, fill='x')
+#
+#
+# b1 = Button(f3, text='获取信息', font=('微软雅黑', 15))
+# b1.pack(side='left', padx=50, pady=5)
+# b2 = Button(f3, text='退出', font=('微软雅黑', 15))
+# b2.pack(side='right', padx=50, pady=5)
+#
+#
+# f1.pack()
+# f2.pack()
+# f3.pack()
+
+
+# root.mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# Label(root, text='账号：').grid(row=0, column=0)
+# Label(root, text='密码：').grid(row=1, column=0)
+#
+# v1 = StringVar()
+# v2 = StringVar()
+#
+# e1 = Entry(root, textvariable=v1)
+# e2 = Entry(root, textvariable=v2, show='*')
+# e1.grid(row=0, column=1, padx=10, pady=5)
+# e2.grid(row=1, column=1, padx=10, pady=5)
+#
+# def show():
+#     print('账号：%s' % e1.get())
+#     print('密码：%s' % e2.get())
+#
+# Button(root, text='芝麻开门', width=10, command=show) \
+#     .grid(row=3, column=0, sticky=W, padx=10, pady=5)
+# Button(root, text='退出', width=10, command=root.quit) \
+#     .grid(row=3, column=1, sticky=E, padx=10, pady=5)
+#
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# def test():
+#     if e1.get() == 'nihao':
+#         print('zhengque')
+#         return True
+#
+#     else:
+#         print('cuowu')
+#         return False
+
+# def test(content):
+#     return content.isdigit()
+#
+# frame = Frame(master)
+# frame.pack(padx=10, pady=10)
+#
+# v1 = StringVar()
+# v2 = StringVar()
+# v3 = StringVar()
+#
+# testCMD = master.register(test)
+# e1 = Entry(frame, width=10, textvariable=v1, validate='key', validatecommand=(testCMD, '%P')).grid(row=0, column=0)
+#
+# Label(frame, text='+').grid(row=0, column=1)
+#
+# e2 = Entry(frame, width=10, textvariable=v2, validate='key', validatecommand=(testCMD, '%P')).grid(row=0, column=2)
+#
+# Label(frame, text='=').grid(row=0, column=3)
+#
+# e3 = Entry(frame, width=10, textvariable=v3, state='readonly').grid(row=0, column=4)
+#
+# def calc():
+#     result = int(v1.get()) + int(v2.get())
+#     v3.set(str(result))
+#
+# Button(frame, text='计算结果', command=calc).grid(row=1, column=2, pady=5)
+#
+#
+# mainloop()
+
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# e = Entry(master)
+# e.pack(padx=20, pady=20)
+#
+# e.delete(0, 'end')
+# e.insert(0, '1默认文本...')
+# e.delete(1, 'end')
+# e.insert(3, '2默认文本...')
+# print(e.get())
+#
+# master.mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# s = StringVar()
+# e = Entry(master, textvariable=s)
+# e.pack()
+#
+# s.set('不知道')
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+# master.title('tkinter')
+#
+# Label(master, text='作品：').grid(row=0, column=0)
+# Label(master, text='作者：').grid(row=1, column=0)
+#
+# e1 = Entry(master)
+# e2 = Entry(master)
+# e1.grid(row=0, column=1, padx=10, pady=5)
+# e2.grid(row=1, column=1, padx=10, pady=5)
+#
+# def show():
+#     print("作品：《%s》" % e1.get())
+#     print("作者：%s" % e2.get())
+#     e1.delete(0, 'end')
+#     e2.delete(0, 'end')
+#
+# Button(master, text='获取信息', width=0, command=show).grid(row=3, column=0, sticky='w', padx=10, pady=5)
+# Button(master, text='退出', width=0, command=master.quit).grid(row=3, column=1, sticky='e', padx=10, pady=5)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# def test(content, reson, name):
+#     if e1.get() == 'CDSN':
+#         print('zhengque', content, reson, name)
+#         return True
+#
+#     else:
+#         print('cuowu', content, reson, name)
+#         return False
+#
+#
+# def test2():
+#     print('wo')
+#     return True
+#
+#
+# testCMD = master.register(test)
+#
+# v = StringVar()
+# e1 = Entry(master, textvariable=v, validate='focusout', validatecommand=(testCMD, '%P', '%v', '%W'), invalidcommand=test2)
+# e2 = Entry(master)
+#
+# e1.pack(padx=10, pady=10)
+# e2.pack(padx=10, pady=10)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+#
+# def makesure():
+#     if e1.get() == '小王':
+#         print('哈喽，恭喜恭喜！')
+#         return True
+#     else:
+#         print('我晕，你是谁？！')
+#         e1.delete(0, END)  # 输入错误时，删除错误文本
+#         return False
+#
+#
+# def sb():
+#     print('sb!')
+#
+#
+# e1 = Entry(master, validate='focusout',
+#            validatecommand=makesure, invalidcommand=sb)
+# e1.pack(padx=10, pady=10)
+#
+# e2 = Entry(master, show='*')
+# e2.pack(padx=10, pady=10)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# sb = Scrollbar(master)
+# sb.pack(side=RIGHT, fill=Y)
+#
+# theLB = Listbox(master, yscrollcommand=sb.set)
+#
+# for item in range(100):
+#     theLB.insert(END, item)
+# theLB.pack(side=LEFT, fill=BOTH)
+# sb.config(command=theLB.yview)
+#
+# theButton = Button(master, text='删除它',
+#                    command=lambda x = theLB : x.delete(ACTIVE))
+# theButton.pack()
+#
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# s1 = Scale(root, from_=0, to=42, tickinterval=5, resolutio=5, length=200)
+# s1.pack()
+# s2 = Scale(root, from_=0, to=200, orient=HORIZONTAL, length=600)
+# s2.pack()
+#
+#
+# def show():
+#     print(s1.get(), s2.get())
+#
+# Button(root, text='获取位置', command=show).pack()
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# master = Tk()
+#
+# f1 = Frame()
+# f2 = Frame()
+#
+# sb = Scrollbar(f1)
+# sb.pack(side='right', fill='y')
+#
+# theLB = Listbox(f1, selectmode='multiple', yscrollcommand=sb.set)
+# theLB.pack()
+#
+#
+# for i in range(100):
+#     theLB.insert('end', i)
+# sb.config(command=theLB.yview)
+#
+# theButton = Button(f2, text='删除',
+#                    command = lambda x = theLB : x.delete('active'))
+# theButton.pack()
+#
+#
+# f1.pack()
+# f2.pack()
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# Scale(root, from_=52, to=100, tickinterval=5, resolution=5, length=200).pack()
+# Scale(root, from_=200, to=500, tickinterval=10, length=1200, orient='horizontal').pack()
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# Label(root, text='用户名').grid(row=0, stick='w')
+# Label(root, text='密码').grid(row=1, stick='w')
+#
+# Entry(root).grid(row=0, column=1)
+# Entry(root, show='*').grid(row=0, column=1)
+#
+# photo = PhotoImage(file=r'C:\Users\zhangyi\Desktop\QQ图片20191218154536.png')
+# Label(root, image=photo).grid(row=0, column=2, rowspan=3, padx=5, pady=5)
+#
+# Button(text='提交', width=10).grid(row=2, columnspan=3, pady=5)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# text = Text(root, width=200, height=50)
+# text.pack()
+#
+# # text.insert(INSERT, 'I love \n fishC \n.com!')
+#
+# photo = PhotoImage(file=r'C:\Users\zhangyi\Desktop\QQ图片20191218154536.png')
+#
+# def show():
+#     text.image_create(END, image=photo)
+#
+# b1 = Button(text, text='点我点我', command=show)
+# text.window_create(INSERT, window=b1)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# text = Text(root, width=30, heigh=2)
+# text.pack()
+#
+# text.insert('insert', 'I love \n')
+# text.insert('end', 'FishC.com')
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# text = Text(root, width=50, height=10)
+# text.pack()
+#
+# text.insert(INSERT, 'I love FishC.com!')
+#
+# text.tag_add('tag1', '1.7', '1.12', '1.14')
+# text.tag_add('tag2', '1.13', '1.16')
+# text.tag_config('tag1', background='yellow', foreground='red')
+# text.tag_config('tag2', background='blue', foreground='green')
+#
+# text.tag_lower('tag2')
+#
+# mainloop()
+
+
+# from tkinter import *
+# import webbrowser
+#
+# root = Tk()
+#
+# text = Text(root, width=40, height=5)
+# text.pack()
+#
+# text.insert('insert', 'I love Python.com!')
+#
+# text.tag_add('link', '1.7', '1.17')
+# text.tag_config('link', foreground='blue', underline=True)
+#
+# def show_arrow_cursor(event):
+#     text.config(cursor='arrow')
+#
+# def show_xterm_cursor(event):
+#     text.config(cursor='xterm')
+#
+# def click(event):
+#     webbrowser.open("https://www.python.org/")
+#
+#
+# text.tag_bind('link', '<Enter>', show_arrow_cursor)
+# text.tag_bind('link', '<Leave>', show_xterm_cursor)
+# text.tag_bind('link', '<Button-1>', click)
+#
+# mainloop()
+
+
+# from tkinter import *
+# import hashlib
+#
+# root = Tk()
+#
+# text = Text(root, width=30, height=5)
+# text.pack()
+#
+# text.insert(INSERT, "I love FishC.com!")
+# contents = text.get('1.0', END)
+#
+# def getSig(contents):
+#     m = hashlib.md5(contents.encode())
+#     return m.digest()
+#
+# sig = getSig(contents)
+#
+# def check():
+#     contents = text.get(1.0, END)
+#     if sig != getSig(contents):
+#         print('警报：内容发生变动！')
+#     else:
+#         print('风平浪静~')
+#
+#
+#
+# Button(root, text='检查', command=check).pack()
+
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# text = Text(root, width=30, height=5)
+# text.pack()
+#
+# text.insert(INSERT, 'I love FishC.com!')
+#
+# start = '1.0'
+#
+# def getIndex(text, index):
+#     return tuple(map(int, str.split(text.index(index), '.')))
+#
+# while True:
+#     pos = text.search('o', start, stopindex=END)
+#     if not pos:
+#         break
+#     print('找到啦，位置是：', getIndex(text, pos))
+#     start = pos + '+1c'
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# text = Text(root, width=30, height=5, undo=True, autoseparators=False)
+# text.pack()
+#
+# text.insert(INSERT, 'I love FishC.com!')
+#
+# def callback(event):
+#     text.edit_separator()
+#
+#
+# text.bind('<Key>', callback)
+#
+# def show():
+#     text.edit_undo()
+#
+# Button(root, text='撤销', command=show).pack()
+#
+# mainloop()
+
+
+#
+# from tkinter import *
+#
+# root = Tk()
+#
+# w = Canvas(root, width=200, height=100)
+# w.pack()
+#
+# line1 = w.create_line(0, 50, 200, 50, fill='yellow')
+# line2 = w.create_line(100, 0, 100, 100, fill='red', dash=(4, 4))
+# rect1 = w.create_rectangle(50, 25, 150, 75, fill='blue')
+#
+# w.coords(line1, 0, 25, 200, 25)
+# w.itemconfig(rect1, fill='green')
+# w.delete(line2)
+#
+# Button(root, text='删除全部', command=(lambda  x = ALL : w.delete((x)))).pack()
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# w = Canvas(root, width=200, height=100)
+# w.pack()
+#
+# w.create_line(0, 0, 200, 100, fill='green', width=3)
+# w.create_line(200, 0, 0, 100, fill='green', width=3)
+# w.create_rectangle(40, 20, 160, 80, fill='green')
+# w.create_rectangle(65, 35, 135, 65, fill='yellow')
+#
+# w.create_text(100, 50, text='FishC')
+#
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# w = Canvas(root, width=200, height=100)
+# w.pack()
+#
+# w.create_rectangle(40, 20, 160, 80, dash=(4, 4))
+# w.create_oval(70, 20, 130, 80, fill='pink')
+# w.create_text(100, 50, text='FishC')
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# w = Canvas(root, width=200, height=100, background='white')
+# w.pack()
+#
+# line1 = w.create_line(0, 50, 200, 50, fill='yellow')
+# line2 = w.create_line(100, 0, 100, 100, fill='red', dash=(4, 4))
+# rect1 = w.create_rectangle(50, 25, 150, 75, fill='blue')
+#
+#
+# w.coords(line1, 0, 25, 200, 25)
+# w.itemconfig(rect1, fill='green')
+# w.delete(line2)
+#
+# Button(root, text='删除全部', command=(lambda x = ALL : w.delete(x))).pack()
+#
+# mainloop()
+
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# w = Canvas(root, width=400, height=200)
+# w.pack()
+#
+# def paint(event):
+#     x1, y1 = (event.x - 1), (event.y - 1)
+#     x2, y2 = (event.x + 1), (event.y + 1)
+#     w.create_oval(x1, y1, x2, y2, fill='red')
+#
+# w.bind('<B1-Motion>', paint)
+#
+# Label(root, text='按住鼠标左键并移动，开始绘制你的理想蓝图吧......').pack(side=BOTTOM)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# def callback():
+#     print('hello')
+#
+# menubar = Menu(root, tearoff=False)
+#
+# filemenu = Menu(menubar, tearoff=False)
+# filemenu.add_command(label='hello', command=callback)
+# filemenu.add_command(label='quit', command=root.quit)
+# filemenu.add_separator()
+# filemenu.add_command(label='no', command=callback)
+# menubar.add_cascade(label='wenjian', menu=filemenu)
+#
+#
+# frame = Frame(root, width=512, height=512)
+# frame.pack()
+#
+#
+# menubar.add_command(label='hello', command=callback)
+# menubar.add_command(label='quit', command=root.quit)
+#
+# def popup(event):
+#     menubar.post(event.x_root, event.y_root)
+#
+# frame.bind('<Button-3>', popup)
+#
+# root.config(menu=menubar)
+#
+# mainloop()
+
+
+# from tkinter import *
+#
+# root = Tk()
+#
+# mainloop()
+
+# import pygame
+# import sys
+#
+# # 初始化pygame
+# pygame.init()
+#
+# size = width, height = 600, 400
+# speed = [-2, 1]
+# bg = (255, 255, 255)
+#
+# # 创建指定大小的窗口
+# screen = pygame.display.set_mode(size)
+# # 设置窗口标题
+# pygame.display.set_caption('初次见面，请大家多多关照！！')
+#
+# # 加载图片
+# image = pygame.image.load(r'C:\Users\zhangyi\Desktop\QQ图片20191218154536.png')
+# # 获取图片的位置矩形
+# position = image.get_rect()
+#
+#
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             sys.exit()
+#
+#
+#     # 移动图片
+#     position = position.move(speed)
+#
+#     if position.left < 0 or position.right > width:
+#         # 翻转图片
+#         image = pygame.transform.flip(image, True, False)
+#         # 反向移动
+#         speed[0] = -speed[0]
+#
+#     if position.top < 0 or position.bottom > height:
+#         speed[1] = -speed[1]
+#
+#
+#     # 填充背景
+#     screen.fill(bg)
+#
+#     # 更新图片
+#     screen.blit(image, position)
+#
+#     # 更新界面
+#     pygame.display.flip()
+#
+#     # 延迟10毫秒
+#     pygame.time.delay(10)
+#
+
+
+# import pygame
+# import sys
+#
+# # 初始化pygame
+# pygame.init()
+#
+# size = width, height = 1920, 1080
+# speed = [-8, 4]
+# bg = [255, 255, 255]
+#
+# clock = pygame.time.Clock()
+#
+# # 创建指定大小的窗口
+# screen = pygame.display.set_mode(size)
+#
+# # 设置窗口标题
+# pygame.display.set_caption('初次见面，请大家多多关照!!')
+#
+#
+# # 加载图片
+# yl = pygame.image.load(r'C:\Users\zhangyi\Desktop\QQ图片20200107164350.jpg')
+#
+# # 获得图片的位置矩形
+# position = yl.get_rect()
+#
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             sys.exit()
+#
+#     # 移动图像
+#     position = position.move(speed)
+#
+#     if position.left < 0 or position.right > width:
+#         # 翻转图片
+#         yl = pygame.transform.flip(yl, True, False)
+#         # 反方向移动
+#         speed[0] = -speed[0]
+#
+#     if position.top < 0 or position.bottom > height:
+#         speed[1] = -speed[1]
+#
+#
+#     # 填充背景
+#     screen.fill(bg)
+#     # 更新图片
+#     screen.blit(yl, position)
+#     # 更新界面
+#     pygame.display.flip()
+#     # 延迟10毫秒
+#     # pygame.time.delay(10)
+#     clock.tick(200)
+
+
+# import pygame
+# import sys
+#
+# pygame.init()
+#
+# size = width, height = 600, 400
+# screen = pygame.display.set_mode(size)
+# pygame.display.set_caption('初次见面，请大家多多关照！！')
+#
+# f = open('record.txt', 'w')
+#
+# while True:
+#     for event in pygame.event.get():
+#         f.write(str(event) + '\n')
+#
+#         if event.type == pygame.QUIT:
+#             f.close()
+#             sys.exit()
+
+
+# import pygame
+# # import sys
+# #
+# # pygame.init()
+# #
+# # size = width, height = 600, 400
+# # screen = pygame.display.set_mode(size)
+# # pygame.display.set_caption('FishC Demo')
+# # bg = (0, 0, 0)
+# #
+# # position = 0
+# #
+# # font = pygame.font.Font(None, 20)
+# # line_height = font.get_linesize()
+# # screen.fill(bg)
+# #
+# # while True:
+# #     for event in pygame.event.get():
+# #         if event.type == pygame.QUIT:
+# #             sys.exit()
+# #
+# #
+# #         screen.blit(font.render(str(event), True, (0, 255, 0)), (0, position))
+# #         position += line_height
+# #
+# #         if position > height:
+# #             position = 0
+# #             screen.fill(bg)
+# #
+# #
+# #     pygame.display.flip()
+
+
+# import pygame
+# import sys
+# from pygame.locals import *
+#
+# pygame.init()
+#
+# size = width, height = 1920, 1080
+# speed = [-2, 1]
+# bg = (255, 255, 255)
+#
+# fullscreen = False
+#
+# size1 = pygame.display.list_modes()[0]
+#
+# clock = pygame.time.Clock()
+#
+# screen = pygame.display.set_mode(size, RESIZABLE)
+# pygame.display.set_caption('初次见面，请大家多多关照！！')
+#
+# yl1 = pygame.image.load(r'C:\Users\zhangyi\Desktop\QQ图片20200107164350.jpg')
+# yl = yl1
+#
+#
+# ratio = 1.0
+#
+#
+#
+# yl1_rect = yl1.get_rect()
+# position = yl_rect = yl1_rect
+#
+# l_head = yl
+# r_head = pygame.transform.flip(yl, True, False)
+#
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == QUIT:
+#             sys.exit()
+#
+#         if event.type == KEYDOWN:
+#             if event.key == K_LEFT:
+#                 yl = l_head
+#                 speed = [-1, 0]
+#             if event.key == K_RIGHT:
+#                 yl = r_head
+#                 speed = [1, 0]
+#             if event.key == K_UP:
+#                 speed = [0, -1]
+#             if event.key == K_DOWN:
+#                 speed = [0, 1]
+#
+#
+#             if event.key == K_F11:
+#                 fullscreen = not fullscreen
+#                 if fullscreen:
+#                     screen = pygame.display.set_mode(size1, FULLSCREEN | HWSURFACE)
+#                     width, height = 1920, 1080
+#                 else:
+#                     screen = pygame.display.set_mode(size)
+#
+#
+#             if event.key == K_EQUALS or event.key == K_MINUS or event.key == K_SPACE:
+#                 if event.key == K_EQUALS and ratio < 2:
+#                     ratio += 0.1
+#                 if event.key == K_MINUS and ratio > 0.5:
+#                     ratio -= 0.1
+#                 if event.key == K_SPACE:
+#                     ratio = 1.0
+#
+#                 yl = pygame.transform.smoothscale(yl1,
+#                                                   (int(yl1_rect.width * ratio),
+#                                                    int(yl1_rect.height * ratio)))
+#
+#                 l_head = yl
+#                 r_head = pygame.transform.flip(yl, True, False)
+#
+#         if event.type == VIDEORESIZE:
+#             size = event.size
+#             width, height = size
+#             screen = pygame.display.set_mode(size, RESIZABLE)
+#
+#
+#
+#     position = position.move(speed)
+#
+#     if position.left < 0 or position.right > width:
+#         # 翻转图片
+#         yl = pygame.transform.flip(yl, True, False)
+#         # 反方向移动
+#         speed[0] = -speed[0]
+#
+#     if position.top < 0 or position.bottom > height:
+#         speed[1] = -speed[1]
+#
+#     # if position.left < 0 or position.right > width:
+#     #     yl = pygame.transform.flip(yl, True, False)
+#     #     speed[0] = -speed[0]
+#     #
+#     # if position.top < 0 or position.bottom > height:
+#     #     speed[0] = -speed[0]
+#
+#
+#     screen.fill(bg)
+#     screen.blit(yl, position)
+#     pygame.display.flip()
+#     clock.tick(200)
+#
+
+# import pygame
+# import sys
+# from pygame.locals import *
+#
+# pygame.init()
+#
+# size = width, height = 1920, 1080
+# bg = (255, 255, 255)
+# speed = [10, 0]
+#
+# clock = pygame.time.Clock()
+#
+# fullscreen = False
+#
+# screen = pygame.display.set_mode(size)
+# pygame.display.set_caption('初次见面，请大家多多关照！！')
+#
+# yl = pygame.image.load(r'C:\Users\zhangyi\Desktop\QQ图片20200107164350.jpg')
+# position = yl.get_rect()
+#
+# yl_right = pygame.transform.rotate(yl, 90)
+# yl_top = pygame.transform.rotate(yl, 180)
+# yl_left = pygame.transform.rotate(yl, 270)
+# yl_bottom = yl
+# yl = yl_top
+#
+#
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             sys.exit()
+#
+#         if event.type == KEYDOWN:
+#             # if event.type == K_F11:
+#             #     fullscreen = not fullscreen
+#             #     if fullscreen:
+#             #         screen = pygame.display.set_mode((1920, 1080),
+#             #                                          FULLSCREEN | HWSURFACE)
+#             #     else:
+#             #         screen = pygame.display.set_mode(size)
+#
+#             if event.key == K_F11:
+#                 fullscreen = not fullscreen
+#                 if fullscreen:
+#                     size1 = pygame.display.list_modes()[0]
+#                     screen = pygame.display.set_mode(size1, FULLSCREEN | HWSURFACE)
+#                     width, height = 1920, 1080
+#                 else:
+#                     screen = pygame.display.set_mode(size)
+#
+#
+#
+#     position = position.move(speed)
+#
+#     if position.right > width:
+#         yl = yl_right
+#         position = yl_rect = yl.get_rect()
+#         position.left = width - yl_rect.width
+#         speed = [0, 5]
+#
+#     if position.bottom > height:
+#         yl = yl_bottom
+#         position = yl_rect = yl.get_rect()
+#         position.left = width - yl_rect.width
+#         position.top = height - yl_rect.height
+#         speed = [-10, 0]
+#
+#     if position.left < 0:
+#         yl = yl_left
+#         position = yl_rect = yl.get_rect()
+#         position.top = height - yl_rect.height
+#         speed = [0, -10]
+#
+#     if position.top < 0:
+#         yl = yl_top
+#         position = yl_rect = yl.get_rect()
+#         speed = [10, 0]
+#
+#     screen.fill(bg)
+#     screen.blit(yl, position)
+#     pygame.display.flip()
+#     clock.tick(200)
+
+
+# import pygame
+# import sys
+#
+# pygame.init()
+#
+# size = width, height = 1920, 1080
+# bg = (255, 255, 255)
+# speed = [-10, 5]
+#
+# fullscreen = False
+#
+# clock = pygame.time.Clock()
+#
+# screen = pygame.display.set_mode(size)
+# pygame.display.set_caption("初次见面，请大家多多关照！")
+#
+# yl = pygame.image.load(r'C:\Users\zhangyi\Desktop\QQ图片20200107164350.jpg')
+# position = yl.get_rect()
+#
+# l_head = yl
+# r_head = pygame.transform.flip(yl, True, False)
+#
+# while True:
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             sys.exit()
+#
+#
+#         if event.type == pygame.KEYDOWN:
+#             if event.key == pygame.K_F11:
+#                 fullscreen = not fullscreen
+#
+#                 if fullscreen:
+#                     screen = pygame.display.set_mode(size, pygame.FULLSCREEN | pygame.HWSURFACE)
+#                     width, height = size
+#                 else:
+#                     screen = pygame.display.set_mode(size)
+#
+#
+#             if event.key == pygame.K_LEFT:
+#                 yl = l_head
+#                 speed = [-1, 0]
+#             if event.key == pygame.K_RIGHT:
+#                 yl = r_head
+#                 speed = [1, 0]
+#             if event.key == pygame.K_UP:
+#                 speed = [0, 1]
+#             if event.key == pygame.K_DOWN:
+#                 speed = [0, -1]
+#
+#
+#     position = position.move(speed)
+#
+#     if position.left < 0 or position.right > width:
+#         yl = pygame.transform.flip(yl, True, False)
+#         speed[0] = -speed[0]
+#
+#     if position.top < 0 or position.bottom > height:
+#         speed[-1] = -speed[1]
+#
+#
+#     screen.fill(bg)
+#     screen.blit(yl, position)
+#     pygame.display.flip()
+#     clock.tick(200)
+
+
+
+
+
